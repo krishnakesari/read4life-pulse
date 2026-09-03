@@ -1,6 +1,6 @@
 {
   "date": "2026-09-03",
-  "generated_at": "2026-09-03T22:00:12+00:00",
+  "generated_at": "2026-09-03T22:00:40+00:00",
   "signals": [
     {
       "tag": "launch",
@@ -36,18 +36,6 @@
       "tag": "explorers",
       "line": "Joseph de Jussieu was born on this day in 1704.",
       "source": "wikimedia",
-      "weight": 2
-    },
-    {
-      "tag": "sun",
-      "line": "Tonight's sky, from NASA: The Eclipse and the Stork.",
-      "source": "nasa",
-      "weight": 2
-    },
-    {
-      "tag": "moon",
-      "line": "Tonight's sky, from NASA: The Eclipse and the Stork.",
-      "source": "nasa",
       "weight": 2
     }
   ]
