@@ -1,16 +1,16 @@
 {
-  "date": "2026-09-04",
-  "generated_at": "2026-09-04T01:17:07+00:00",
+  "date": "2026-09-03",
+  "generated_at": "2026-09-04T01:17:47+00:00",
   "signals": [
     {
       "tag": "launch",
-      "line": "A rocket launches today: Spectrum carrying Onward and Upward.",
+      "line": "A rocket launches today: GSLV Mk II carrying GISAT-1A (EOS-05).",
       "source": "launchlibrary",
       "weight": 3
     },
     {
       "tag": "space",
-      "line": "A rocket launches today: Spectrum carrying Onward and Upward.",
+      "line": "A rocket launches today: GSLV Mk II carrying GISAT-1A (EOS-05).",
       "source": "launchlibrary",
       "weight": 3
     },
@@ -33,21 +33,21 @@
       "weight": 2
     },
     {
-      "tag": "poetry",
-      "line": "Constantijn Huygens was born on this day in 1596.",
+      "tag": "explorers",
+      "line": "Joseph de Jussieu was born on this day in 1704.",
       "source": "wikimedia",
       "weight": 2
     },
     {
-      "tag": "technology",
-      "line": "Martin Wiberg was born on this day in 1826.",
-      "source": "wikimedia",
+      "tag": "sun",
+      "line": "Tonight's sky, from NASA: The Eclipse and the Stork.",
+      "source": "nasa",
       "weight": 2
     },
     {
-      "tag": "machines",
-      "line": "Martin Wiberg was born on this day in 1826.",
-      "source": "wikimedia",
+      "tag": "moon",
+      "line": "Tonight's sky, from NASA: The Eclipse and the Stork.",
+      "source": "nasa",
       "weight": 2
     }
   ]
