@@ -11,7 +11,7 @@ filters out anything the app would never show, and writes `pulse.json`:
 
 The app fetches the committed file from GitHub's raw host on launch, keeps
 the last good copy, and ships with a bundled copy so a phone with no signal
-still has a day. `.github/workflows/pulse.yml` runs it at 05:17 UTC and
+still has a day. `.github/workflows/pulse.yml` runs it at 09:17 UTC — the small hours in every US zone, so the file's date is the reader's date — and
 commits the result. No server. (Set `NASA_API_KEY` as a repository secret to
 lift the demo-key rate limit; `PULSE_COUNTRY` picks the holiday calendar.)
 

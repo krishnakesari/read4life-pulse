@@ -21,6 +21,7 @@ import os
 import sys
 import urllib.parse
 import urllib.request
+from zoneinfo import ZoneInfo
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from tags import tags_for, blocked, strong, bare, CALLINGS, _has  # noqa: E402
@@ -32,6 +33,9 @@ READS = os.path.join(HERE, "..", "..", "Read4Life", "Resources", "reads.json")
 VOCAB = os.path.join(HERE, "vocabulary.json")
 UA = "Read4Life-pulse/0.1 (daily reading app; contact via repository)"
 COUNTRY = os.environ.get("PULSE_COUNTRY", "US")
+# "Today" is the reader's today, not the runner's: GitHub's machines are on
+# UTC and would date the file tomorrow for the whole American evening.
+TZ = ZoneInfo(os.environ.get("PULSE_TZ", "America/New_York"))
 NASA_KEY = os.environ.get("NASA_API_KEY", "DEMO_KEY")
 
 
@@ -185,10 +189,17 @@ def nobel(day, out, known):
 # --- the sky tonight (NASA APOD, public domain) ----------------------------
 
 def apod(day, out, known):
-    try:
-        data = get(f"https://api.nasa.gov/planetary/apod?api_key={NASA_KEY}&date={day.isoformat()}")
-    except Exception as e:
-        print("apod:", e, file=sys.stderr); return
+    """Today's picture, or yesterday's if today's isn't posted yet — NASA
+    publishes it in the small hours, US time."""
+    data = None
+    for when in (day, day - dt.timedelta(days=1)):
+        try:
+            data = get(f"https://api.nasa.gov/planetary/apod?api_key={NASA_KEY}&date={when.isoformat()}")
+            break
+        except Exception as e:
+            print(f"apod {when}:", e, file=sys.stderr)
+    if not data:
+        return
     title = data.get("title", "")
     tags = tags_for(title + " " + data.get("explanation", "")[:400])
     if tags:
@@ -277,7 +288,7 @@ def build(day):
 
 if __name__ == "__main__":
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
-    day = dt.date.fromisoformat(args[0]) if args else dt.date.today()
+    day = dt.date.fromisoformat(args[0]) if args else dt.datetime.now(TZ).date()
     out_path = os.path.join(HERE, "pulse.json")
     if "--out" in sys.argv:
         out_path = sys.argv[sys.argv.index("--out") + 1]
