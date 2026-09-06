@@ -1,52 +1,28 @@
 {
-  "date": "2026-09-05",
-  "generated_at": "2026-09-05T12:44:25+00:00",
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T12:53:19+00:00",
   "signals": [
     {
-      "tag": "launch",
-      "line": "A rocket launches today: Spectrum carrying Onward and Upward.",
-      "source": "launchlibrary",
-      "weight": 3
-    },
-    {
       "tag": "space",
-      "line": "A rocket launches today: Spectrum carrying Onward and Upward.",
+      "line": "A rocket launches today: Falcon 9 Block 5 carrying Starlink Group 15-24.",
       "source": "launchlibrary",
       "weight": 3
     },
     {
-      "tag": "revolution",
-      "line": "Today is the anniversary of Cuban Revolution (1957).",
-      "source": "wikimedia",
-      "weight": 2
+      "tag": "launch",
+      "line": "A rocket launches today: Falcon 9 Block 5 carrying Starlink Group 15-24.",
+      "source": "launchlibrary",
+      "weight": 3
     },
     {
-      "tag": "election",
-      "line": "Today is the anniversary of July–September 2022 Conservative Party leadership election (2022).",
-      "source": "wikimedia",
-      "weight": 2
-    },
-    {
-      "tag": "democracy",
-      "line": "Today is the anniversary of July–September 2022 Conservative Party leadership election (2022).",
-      "source": "wikimedia",
-      "weight": 2
-    },
-    {
-      "tag": "poetry",
-      "line": "Fan Zhongyan was born on this day in 989.",
-      "source": "wikimedia",
-      "weight": 2
-    },
-    {
-      "tag": "explorers",
-      "line": "William Dampier was born on this day in 1651.",
-      "source": "wikimedia",
+      "tag": "sun",
+      "line": "Tonight's sky, from NASA: Pluto in Enhanced Color.",
+      "source": "nasa",
       "weight": 2
     },
     {
       "tag": "astronomy",
-      "line": "Tonight's sky, from NASA: Nā ʻUhane Māhoe Huki Pū i ke Ola.",
+      "line": "Tonight's sky, from NASA: Pluto in Enhanced Color.",
       "source": "nasa",
       "weight": 2
     }
