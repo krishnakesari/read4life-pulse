@@ -1,29 +1,53 @@
 {
-  "date": "2026-09-06",
-  "generated_at": "2026-09-06T12:53:19+00:00",
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T15:03:56+00:00",
   "signals": [
     {
-      "tag": "space",
-      "line": "A rocket launches today: Falcon 9 Block 5 carrying Starlink Group 15-24.",
-      "source": "launchlibrary",
-      "weight": 3
+      "tag": "work",
+      "line": "It's Labor Day.",
+      "source": "nager",
+      "weight": 5
     },
     {
       "tag": "launch",
-      "line": "A rocket launches today: Falcon 9 Block 5 carrying Starlink Group 15-24.",
+      "line": "A rocket launches this week: Long March 2D/YZ-3 carrying Unknown Payload.",
       "source": "launchlibrary",
       "weight": 3
     },
     {
-      "tag": "sun",
-      "line": "Tonight's sky, from NASA: Pluto in Enhanced Color.",
-      "source": "nasa",
+      "tag": "space",
+      "line": "A rocket launches this week: Long March 2D/YZ-3 carrying Unknown Payload.",
+      "source": "launchlibrary",
+      "weight": 3
+    },
+    {
+      "tag": "democracy",
+      "line": "Today is the anniversary of Independence of Brazil (1822).",
+      "source": "wikimedia",
       "weight": 2
     },
     {
-      "tag": "astronomy",
-      "line": "Tonight's sky, from NASA: Pluto in Enhanced Color.",
-      "source": "nasa",
+      "tag": "freedom",
+      "line": "Today is the anniversary of Independence of Brazil (1822).",
+      "source": "wikimedia",
+      "weight": 2
+    },
+    {
+      "tag": "election",
+      "line": "Today is the anniversary of 2005 Egyptian presidential election (2005).",
+      "source": "wikimedia",
+      "weight": 2
+    },
+    {
+      "tag": "poetry",
+      "line": "Giuseppe Gioachino Belli was born on this day in 1791.",
+      "source": "wikimedia",
+      "weight": 2
+    },
+    {
+      "tag": "explorers",
+      "line": "John McDouall Stuart was born on this day in 1815.",
+      "source": "wikimedia",
       "weight": 2
     }
   ]
