@@ -1,52 +1,34 @@
 {
-  "date": "2026-09-08",
-  "generated_at": "2026-09-08T13:39:18+00:00",
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T13:44:11+00:00",
   "signals": [
     {
       "tag": "launch",
-      "line": "A rocket launches this week: Soyuz 2.1b carrying Progress MS-35 (96P).",
+      "line": "A rocket launches this week: Long March 2D/YZ-3 carrying Unknown Payload.",
       "source": "launchlibrary",
       "weight": 3
     },
     {
       "tag": "space",
-      "line": "A rocket launches this week: Soyuz 2.1b carrying Progress MS-35 (96P).",
+      "line": "A rocket launches this week: Long March 2D/YZ-3 carrying Unknown Payload.",
       "source": "launchlibrary",
       "weight": 3
     },
     {
-      "tag": "explorers",
-      "line": "Today is the anniversary of Magellan expedition (1522).",
-      "source": "wikimedia",
-      "weight": 2
-    },
-    {
-      "tag": "discovery",
-      "line": "Today is the anniversary of Magellan expedition (1522).",
+      "tag": "moon",
+      "line": "Today is the anniversary of Amalthea (moon) (1892).",
       "source": "wikimedia",
       "weight": 2
     },
     {
       "tag": "poetry",
-      "line": "Ludovico Ariosto was born on this day in 1474.",
-      "source": "wikimedia",
-      "weight": 2
-    },
-    {
-      "tag": "science",
-      "line": "Derek Barton was born on this day in 1918.",
+      "line": "Clemens Brentano was born on this day in 1778.",
       "source": "wikimedia",
       "weight": 2
     },
     {
       "tag": "astronomy",
-      "line": "Tonight's sky, from NASA: Hubble: Decagon Around Saturn's South Pole.",
-      "source": "nasa",
-      "weight": 2
-    },
-    {
-      "tag": "telescope",
-      "line": "Tonight's sky, from NASA: Hubble: Decagon Around Saturn's South Pole.",
+      "line": "Tonight's sky, from NASA: Witness XZ Andromedae Wink.",
       "source": "nasa",
       "weight": 2
     }
