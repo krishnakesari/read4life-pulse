@@ -1,34 +1,28 @@
 {
-  "date": "2026-09-09",
-  "generated_at": "2026-09-09T13:44:11+00:00",
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T13:36:54+00:00",
   "signals": [
     {
       "tag": "launch",
-      "line": "A rocket launches this week: Long March 2D/YZ-3 carrying Unknown Payload.",
+      "line": "A rocket launches today: Long March 4B carrying Yaogan 53-01 to 03/56-01 to 03.",
       "source": "launchlibrary",
       "weight": 3
     },
     {
       "tag": "space",
-      "line": "A rocket launches this week: Long March 2D/YZ-3 carrying Unknown Payload.",
+      "line": "A rocket launches today: Long March 4B carrying Yaogan 53-01 to 03/56-01 to 03.",
       "source": "launchlibrary",
       "weight": 3
     },
     {
-      "tag": "moon",
-      "line": "Today is the anniversary of Amalthea (moon) (1892).",
-      "source": "wikimedia",
-      "weight": 2
-    },
-    {
       "tag": "poetry",
-      "line": "Clemens Brentano was born on this day in 1778.",
+      "line": "Jeppe Aakjær was born on this day in 1866.",
       "source": "wikimedia",
       "weight": 2
     },
     {
       "tag": "astronomy",
-      "line": "Tonight's sky, from NASA: Witness XZ Andromedae Wink.",
+      "line": "Tonight's sky, from NASA: LDN 1295: The Giraffe Nebula.",
       "source": "nasa",
       "weight": 2
     }
