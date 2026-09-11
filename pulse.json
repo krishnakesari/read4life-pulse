@@ -1,29 +1,53 @@
 {
-  "date": "2026-09-10",
-  "generated_at": "2026-09-10T13:36:54+00:00",
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T13:35:09+00:00",
   "signals": [
     {
-      "tag": "launch",
-      "line": "A rocket launches today: Long March 4B carrying Yaogan 53-01 to 03/56-01 to 03.",
-      "source": "launchlibrary",
-      "weight": 3
+      "tag": "moon",
+      "line": "Tonight is a new Moon — the darkest sky of the month.",
+      "source": "computed",
+      "weight": 2
+    },
+    {
+      "tag": "night",
+      "line": "Tonight is a new Moon — the darkest sky of the month.",
+      "source": "computed",
+      "weight": 2
     },
     {
       "tag": "space",
-      "line": "A rocket launches today: Long March 4B carrying Yaogan 53-01 to 03/56-01 to 03.",
+      "line": "A rocket launches today: Electron carrying Happily Ever Faster (BlackSky Gen-3 5).",
       "source": "launchlibrary",
       "weight": 3
     },
     {
-      "tag": "poetry",
-      "line": "Jeppe Aakjær was born on this day in 1866.",
+      "tag": "launch",
+      "line": "A rocket launches today: Electron carrying Happily Ever Faster (BlackSky Gen-3 5).",
+      "source": "launchlibrary",
+      "weight": 3
+    },
+    {
+      "tag": "explorers",
+      "line": "Today is the anniversary of Benedict Arnold's expedition to Quebec (1775).",
       "source": "wikimedia",
       "weight": 2
     },
     {
-      "tag": "astronomy",
-      "line": "Tonight's sky, from NASA: LDN 1295: The Giraffe Nebula.",
-      "source": "nasa",
+      "tag": "discovery",
+      "line": "Today is the anniversary of Benedict Arnold's expedition to Quebec (1775).",
+      "source": "wikimedia",
+      "weight": 2
+    },
+    {
+      "tag": "revolution",
+      "line": "Today is the anniversary of Revolution of 11 September 1852 (1852).",
+      "source": "wikimedia",
+      "weight": 2
+    },
+    {
+      "tag": "law",
+      "line": "Today is the anniversary of History of the Egyptian Constitution (1971).",
+      "source": "wikimedia",
       "weight": 2
     }
   ]
