@@ -1,53 +1,41 @@
 {
-  "date": "2026-09-11",
-  "generated_at": "2026-09-11T13:35:09+00:00",
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T12:52:04+00:00",
   "signals": [
     {
-      "tag": "moon",
-      "line": "Tonight is a new Moon — the darkest sky of the month.",
-      "source": "computed",
-      "weight": 2
-    },
-    {
-      "tag": "night",
-      "line": "Tonight is a new Moon — the darkest sky of the month.",
-      "source": "computed",
-      "weight": 2
-    },
-    {
       "tag": "space",
-      "line": "A rocket launches today: Electron carrying Happily Ever Faster (BlackSky Gen-3 5).",
+      "line": "A rocket launches this week: Falcon 9 Block 5 carrying O3b mPower 11-13.",
       "source": "launchlibrary",
       "weight": 3
     },
     {
       "tag": "launch",
-      "line": "A rocket launches today: Electron carrying Happily Ever Faster (BlackSky Gen-3 5).",
+      "line": "A rocket launches this week: Falcon 9 Block 5 carrying O3b mPower 11-13.",
       "source": "launchlibrary",
       "weight": 3
     },
     {
-      "tag": "explorers",
-      "line": "Today is the anniversary of Benedict Arnold's expedition to Quebec (1775).",
+      "tag": "moon",
+      "line": "Today is the anniversary of We choose to go to the Moon (1962).",
       "source": "wikimedia",
       "weight": 2
     },
     {
-      "tag": "discovery",
-      "line": "Today is the anniversary of Benedict Arnold's expedition to Quebec (1775).",
+      "tag": "poetry",
+      "line": "Marya Zaturenska was born on this day in 1902.",
       "source": "wikimedia",
       "weight": 2
     },
     {
-      "tag": "revolution",
-      "line": "Today is the anniversary of Revolution of 11 September 1852 (1852).",
-      "source": "wikimedia",
+      "tag": "sun",
+      "line": "Tonight's sky, from NASA: Apollo 11: Catching Some Sun.",
+      "source": "nasa",
       "weight": 2
     },
     {
-      "tag": "law",
-      "line": "Today is the anniversary of History of the Egyptian Constitution (1971).",
-      "source": "wikimedia",
+      "tag": "walking",
+      "line": "Tonight's sky, from NASA: Apollo 11: Catching Some Sun.",
+      "source": "nasa",
       "weight": 2
     }
   ]
