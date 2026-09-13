@@ -1,41 +1,53 @@
 {
-  "date": "2026-09-12",
-  "generated_at": "2026-09-12T12:52:04+00:00",
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T13:48:18+00:00",
   "signals": [
     {
-      "tag": "space",
-      "line": "A rocket launches this week: Falcon 9 Block 5 carrying O3b mPower 11-13.",
-      "source": "launchlibrary",
-      "weight": 3
-    },
-    {
       "tag": "launch",
-      "line": "A rocket launches this week: Falcon 9 Block 5 carrying O3b mPower 11-13.",
+      "line": "A rocket launches today: Falcon 9 Block 5 carrying O3b mPower 11-13.",
       "source": "launchlibrary",
       "weight": 3
     },
     {
-      "tag": "moon",
-      "line": "Today is the anniversary of We choose to go to the Moon (1962).",
+      "tag": "space",
+      "line": "A rocket launches today: Falcon 9 Block 5 carrying O3b mPower 11-13.",
+      "source": "launchlibrary",
+      "weight": 3
+    },
+    {
+      "tag": "law",
+      "line": "Today is the anniversary of French Constitution of 1791 (1791).",
+      "source": "wikimedia",
+      "weight": 2
+    },
+    {
+      "tag": "democracy",
+      "line": "Today is the anniversary of French Constitution of 1791 (1791).",
+      "source": "wikimedia",
+      "weight": 2
+    },
+    {
+      "tag": "election",
+      "line": "Today is the anniversary of 1933 Lyttelton by-election (1933).",
       "source": "wikimedia",
       "weight": 2
     },
     {
       "tag": "poetry",
-      "line": "Marya Zaturenska was born on this day in 1902.",
+      "line": "John Leland (antiquary) was born on this day in 1502.",
       "source": "wikimedia",
       "weight": 2
     },
     {
-      "tag": "sun",
-      "line": "Tonight's sky, from NASA: Apollo 11: Catching Some Sun.",
-      "source": "nasa",
+      "tag": "explorers",
+      "line": "Wilhelm Filchner was born on this day in 1877.",
+      "source": "wikimedia",
       "weight": 2
     },
     {
-      "tag": "walking",
-      "line": "Tonight's sky, from NASA: Apollo 11: Catching Some Sun.",
-      "source": "nasa",
+      "tag": "science",
+      "line": "Robert Robinson (chemist) was born on this day in 1886.",
+      "source": "wikimedia",
       "weight": 2
     }
   ]
