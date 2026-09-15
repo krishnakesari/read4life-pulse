@@ -1,54 +1,54 @@
 {
-  "date": "2026-09-14",
-  "generated_at": "2026-09-14T15:53:46+00:00",
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T14:20:27+00:00",
   "signals": [
     {
-      "tag": "launch",
-      "line": "A rocket launches this week: Vega-C carrying Sentinel-3C & FLEX.",
-      "source": "launchlibrary",
-      "weight": 3
-    },
-    {
       "tag": "space",
-      "line": "A rocket launches this week: Vega-C carrying Sentinel-3C & FLEX.",
+      "line": "A rocket launches today: Vega-C carrying Sentinel-3C & FLEX.",
       "source": "launchlibrary",
       "weight": 3
     },
     {
-      "tag": "poetry",
-      "line": "Lola Rodríguez de Tió was born on this day in 1843.",
-      "source": "wikimedia",
-      "weight": 2
-    },
-    {
-      "tag": "politics",
-      "line": "Karl Compton was born on this day in 1887.",
-      "source": "wikimedia",
-      "weight": 2
-    },
-    {
-      "tag": "leadership",
-      "line": "Karl Compton was born on this day in 1887.",
-      "source": "wikimedia",
-      "weight": 2
-    },
-    {
-      "tag": "power",
-      "line": "Karl Compton was born on this day in 1887.",
-      "source": "wikimedia",
-      "weight": 2
-    },
-    {
-      "tag": "election",
-      "line": "People are looking up 2026 Swedish general election today.",
-      "source": "pageviews",
-      "weight": 1
+      "tag": "launch",
+      "line": "A rocket launches today: Vega-C carrying Sentinel-3C & FLEX.",
+      "source": "launchlibrary",
+      "weight": 3
     },
     {
       "tag": "democracy",
-      "line": "People are looking up 2026 Swedish general election today.",
-      "source": "pageviews",
-      "weight": 1
+      "line": "Today is the anniversary of Act of Independence of Central America (1821).",
+      "source": "wikimedia",
+      "weight": 2
+    },
+    {
+      "tag": "freedom",
+      "line": "Today is the anniversary of Act of Independence of Central America (1821).",
+      "source": "wikimedia",
+      "weight": 2
+    },
+    {
+      "tag": "evolution",
+      "line": "Today is the anniversary of Charles Darwin (1835).",
+      "source": "wikimedia",
+      "weight": 2
+    },
+    {
+      "tag": "explorers",
+      "line": "Marco Polo was born on this day in 1254.",
+      "source": "wikimedia",
+      "weight": 2
+    },
+    {
+      "tag": "poetry",
+      "line": "Manuel Maria Barbosa du Bocage was born on this day in 1765.",
+      "source": "wikimedia",
+      "weight": 2
+    },
+    {
+      "tag": "doctor",
+      "line": "J. Slauerhoff was born on this day in 1898.",
+      "source": "wikimedia",
+      "weight": 2
     }
   ]
 }
