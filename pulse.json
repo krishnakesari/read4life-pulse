@@ -1,42 +1,54 @@
 {
-  "date": "2026-09-16",
-  "generated_at": "2026-09-16T14:12:36+00:00",
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T14:18:42+00:00",
   "signals": [
     {
-      "tag": "launch",
-      "line": "A rocket launches today: Soyuz 2.1b carrying Progress MS-35 (96P).",
+      "tag": "space",
+      "line": "A rocket launches today: Long March 12 carrying SatNet LEO Group 25.",
       "source": "launchlibrary",
       "weight": 3
     },
     {
-      "tag": "space",
-      "line": "A rocket launches today: Soyuz 2.1b carrying Progress MS-35 (96P).",
+      "tag": "launch",
+      "line": "A rocket launches today: Long March 12 carrying SatNet LEO Group 25.",
       "source": "launchlibrary",
       "weight": 3
+    },
+    {
+      "tag": "law",
+      "line": "Today is the anniversary of Constitution of the United States (1787).",
+      "source": "wikimedia",
+      "weight": 2
+    },
+    {
+      "tag": "democracy",
+      "line": "Today is the anniversary of Constitution of the United States (1787).",
+      "source": "wikimedia",
+      "weight": 2
+    },
+    {
+      "tag": "explorers",
+      "line": "Eivind Astrup was born on this day in 1871.",
+      "source": "wikimedia",
+      "weight": 2
     },
     {
       "tag": "poetry",
-      "line": "Alfred Noyes was born on this day in 1880.",
+      "line": "William Carlos Williams was born on this day in 1883.",
+      "source": "wikimedia",
+      "weight": 2
+    },
+    {
+      "tag": "moon",
+      "line": "Edgar Mitchell was born on this day in 1930.",
       "source": "wikimedia",
       "weight": 2
     },
     {
       "tag": "astronomy",
-      "line": "Tonight's sky, from NASA: Webb's View of M64.",
+      "line": "Tonight's sky, from NASA: A Treasure Chest in the Carina Nebula.",
       "source": "nasa",
       "weight": 2
-    },
-    {
-      "tag": "election",
-      "line": "People are looking up european election 2014 today.",
-      "source": "pageviews",
-      "weight": 1
-    },
-    {
-      "tag": "democracy",
-      "line": "People are looking up european election 2014 today.",
-      "source": "pageviews",
-      "weight": 1
     }
   ]
 }
