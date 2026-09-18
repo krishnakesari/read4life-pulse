@@ -1,53 +1,53 @@
 {
-  "date": "2026-09-17",
-  "generated_at": "2026-09-17T14:18:42+00:00",
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T13:36:45+00:00",
   "signals": [
     {
-      "tag": "space",
-      "line": "A rocket launches today: Long March 12 carrying SatNet LEO Group 25.",
+      "tag": "launch",
+      "line": "A rocket launches this week: Electron carrying Owl By The Dozen (StriX Launch 12).",
       "source": "launchlibrary",
       "weight": 3
     },
     {
-      "tag": "launch",
-      "line": "A rocket launches today: Long March 12 carrying SatNet LEO Group 25.",
+      "tag": "space",
+      "line": "A rocket launches this week: Electron carrying Owl By The Dozen (StriX Launch 12).",
       "source": "launchlibrary",
       "weight": 3
     },
     {
       "tag": "law",
-      "line": "Today is the anniversary of Constitution of the United States (1787).",
+      "line": "Today is the anniversary of Constitution of Maryland (1867).",
       "source": "wikimedia",
       "weight": 2
     },
     {
       "tag": "democracy",
-      "line": "Today is the anniversary of Constitution of the United States (1787).",
+      "line": "Today is the anniversary of Constitution of Maryland (1867).",
       "source": "wikimedia",
       "weight": 2
     },
     {
       "tag": "explorers",
-      "line": "Eivind Astrup was born on this day in 1871.",
+      "line": "Today is the anniversary of Washburn–Langford–Doane Expedition (1870).",
       "source": "wikimedia",
       "weight": 2
     },
     {
-      "tag": "poetry",
-      "line": "William Carlos Williams was born on this day in 1883.",
+      "tag": "discovery",
+      "line": "Today is the anniversary of Washburn–Langford–Doane Expedition (1870).",
       "source": "wikimedia",
       "weight": 2
     },
     {
-      "tag": "moon",
-      "line": "Edgar Mitchell was born on this day in 1930.",
+      "tag": "election",
+      "line": "Today is the anniversary of 1948 United States Senate election in Maine (1948).",
       "source": "wikimedia",
       "weight": 2
     },
     {
-      "tag": "astronomy",
-      "line": "Tonight's sky, from NASA: A Treasure Chest in the Carina Nebula.",
-      "source": "nasa",
+      "tag": "politics",
+      "line": "Today is the anniversary of 1948 United States Senate election in Maine (1948).",
+      "source": "wikimedia",
       "weight": 2
     }
   ]
