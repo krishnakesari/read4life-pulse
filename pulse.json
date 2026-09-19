@@ -1,53 +1,35 @@
 {
-  "date": "2026-09-18",
-  "generated_at": "2026-09-18T13:36:45+00:00",
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T13:10:45+00:00",
   "signals": [
     {
-      "tag": "launch",
-      "line": "A rocket launches this week: Electron carrying Owl By The Dozen (StriX Launch 12).",
-      "source": "launchlibrary",
-      "weight": 3
-    },
-    {
       "tag": "space",
-      "line": "A rocket launches this week: Electron carrying Owl By The Dozen (StriX Launch 12).",
+      "line": "A rocket launches today: Electron carrying Owl By The Dozen (StriX Launch 12).",
       "source": "launchlibrary",
       "weight": 3
     },
     {
-      "tag": "law",
-      "line": "Today is the anniversary of Constitution of Maryland (1867).",
+      "tag": "launch",
+      "line": "A rocket launches today: Electron carrying Owl By The Dozen (StriX Launch 12).",
+      "source": "launchlibrary",
+      "weight": 3
+    },
+    {
+      "tag": "revolution",
+      "line": "Today is the anniversary of Glorious Revolution (Spain) (1868).",
       "source": "wikimedia",
       "weight": 2
     },
     {
-      "tag": "democracy",
-      "line": "Today is the anniversary of Constitution of Maryland (1867).",
+      "tag": "poetry",
+      "line": "Hartley Coleridge was born on this day in 1796.",
       "source": "wikimedia",
       "weight": 2
     },
     {
-      "tag": "explorers",
-      "line": "Today is the anniversary of Washburn–Langford–Doane Expedition (1870).",
-      "source": "wikimedia",
-      "weight": 2
-    },
-    {
-      "tag": "discovery",
-      "line": "Today is the anniversary of Washburn–Langford–Doane Expedition (1870).",
-      "source": "wikimedia",
-      "weight": 2
-    },
-    {
-      "tag": "election",
-      "line": "Today is the anniversary of 1948 United States Senate election in Maine (1948).",
-      "source": "wikimedia",
-      "weight": 2
-    },
-    {
-      "tag": "politics",
-      "line": "Today is the anniversary of 1948 United States Senate election in Maine (1948).",
-      "source": "wikimedia",
+      "tag": "astronomy",
+      "line": "Tonight's sky, from NASA: A Zodiacal Night.",
+      "source": "nasa",
       "weight": 2
     }
   ]
