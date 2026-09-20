@@ -1,35 +1,41 @@
 {
-  "date": "2026-09-19",
-  "generated_at": "2026-09-19T13:10:45+00:00",
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T13:35:43+00:00",
   "signals": [
     {
-      "tag": "space",
-      "line": "A rocket launches today: Electron carrying Owl By The Dozen (StriX Launch 12).",
-      "source": "launchlibrary",
-      "weight": 3
-    },
-    {
       "tag": "launch",
-      "line": "A rocket launches today: Electron carrying Owl By The Dozen (StriX Launch 12).",
+      "line": "A rocket launches today: Falcon 9 Block 5 carrying Starlink Group 15-27.",
       "source": "launchlibrary",
       "weight": 3
     },
     {
-      "tag": "revolution",
-      "line": "Today is the anniversary of Glorious Revolution (Spain) (1868).",
+      "tag": "space",
+      "line": "A rocket launches today: Falcon 9 Block 5 carrying Starlink Group 15-27.",
+      "source": "launchlibrary",
+      "weight": 3
+    },
+    {
+      "tag": "democracy",
+      "line": "Today is the anniversary of 1946 Faroese independence referendum (1946).",
+      "source": "wikimedia",
+      "weight": 2
+    },
+    {
+      "tag": "freedom",
+      "line": "Today is the anniversary of 1946 Faroese independence referendum (1946).",
       "source": "wikimedia",
       "weight": 2
     },
     {
       "tag": "poetry",
-      "line": "Hartley Coleridge was born on this day in 1796.",
+      "line": "Kyunyŏ was born on this day in 917.",
       "source": "wikimedia",
       "weight": 2
     },
     {
-      "tag": "astronomy",
-      "line": "Tonight's sky, from NASA: A Zodiacal Night.",
-      "source": "nasa",
+      "tag": "explorers",
+      "line": "Fabian Gottlieb von Bellingshausen was born on this day in 1778.",
+      "source": "wikimedia",
       "weight": 2
     }
   ]
