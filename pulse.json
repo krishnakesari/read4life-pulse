@@ -1,40 +1,52 @@
 {
-  "date": "2026-09-20",
-  "generated_at": "2026-09-20T13:35:43+00:00",
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T15:54:45+00:00",
   "signals": [
     {
-      "tag": "launch",
-      "line": "A rocket launches today: Falcon 9 Block 5 carrying Starlink Group 15-27.",
-      "source": "launchlibrary",
-      "weight": 3
+      "tag": "author:h-g-wells",
+      "line": "H. G. Wells was born on this day in 1866.",
+      "source": "wikimedia",
+      "weight": 4
     },
     {
       "tag": "space",
-      "line": "A rocket launches today: Falcon 9 Block 5 carrying Starlink Group 15-27.",
+      "line": "A rocket launches this week: Long March 8A carrying Unknown Payload.",
       "source": "launchlibrary",
       "weight": 3
     },
     {
+      "tag": "launch",
+      "line": "A rocket launches this week: Long March 8A carrying Unknown Payload.",
+      "source": "launchlibrary",
+      "weight": 3
+    },
+    {
+      "tag": "fire",
+      "line": "Today is the anniversary of Great Fire of New York (1776) (1776).",
+      "source": "wikimedia",
+      "weight": 2
+    },
+    {
+      "tag": "revolution",
+      "line": "Today is the anniversary of French Revolution (1792).",
+      "source": "wikimedia",
+      "weight": 2
+    },
+    {
       "tag": "democracy",
-      "line": "Today is the anniversary of 1946 Faroese independence referendum (1946).",
+      "line": "Today is the anniversary of 1991 Armenian independence referendum (1991).",
       "source": "wikimedia",
       "weight": 2
     },
     {
       "tag": "freedom",
-      "line": "Today is the anniversary of 1946 Faroese independence referendum (1946).",
+      "line": "Today is the anniversary of 1991 Armenian independence referendum (1991).",
       "source": "wikimedia",
       "weight": 2
     },
     {
-      "tag": "poetry",
-      "line": "Kyunyŏ was born on this day in 917.",
-      "source": "wikimedia",
-      "weight": 2
-    },
-    {
-      "tag": "explorers",
-      "line": "Fabian Gottlieb von Bellingshausen was born on this day in 1778.",
+      "tag": "astronomy",
+      "line": "Today is the anniversary of Galileo (spacecraft) (2003).",
       "source": "wikimedia",
       "weight": 2
     }
