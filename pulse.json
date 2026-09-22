@@ -1,52 +1,28 @@
 {
-  "date": "2026-09-21",
-  "generated_at": "2026-09-21T15:54:45+00:00",
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T14:03:02+00:00",
   "signals": [
     {
-      "tag": "author:h-g-wells",
-      "line": "H. G. Wells was born on this day in 1866.",
+      "tag": "author:michael-faraday",
+      "line": "Michael Faraday was born on this day in 1791.",
       "source": "wikimedia",
       "weight": 4
     },
     {
-      "tag": "space",
-      "line": "A rocket launches this week: Long March 8A carrying Unknown Payload.",
-      "source": "launchlibrary",
-      "weight": 3
-    },
-    {
-      "tag": "launch",
-      "line": "A rocket launches this week: Long March 8A carrying Unknown Payload.",
-      "source": "launchlibrary",
-      "weight": 3
-    },
-    {
-      "tag": "fire",
-      "line": "Today is the anniversary of Great Fire of New York (1776) (1776).",
-      "source": "wikimedia",
-      "weight": 2
-    },
-    {
-      "tag": "revolution",
-      "line": "Today is the anniversary of French Revolution (1792).",
+      "tag": "election",
+      "line": "Today is the anniversary of 2024 Sri Lankan presidential election (2024).",
       "source": "wikimedia",
       "weight": 2
     },
     {
       "tag": "democracy",
-      "line": "Today is the anniversary of 1991 Armenian independence referendum (1991).",
+      "line": "Today is the anniversary of 2024 Sri Lankan presidential election (2024).",
       "source": "wikimedia",
       "weight": 2
     },
     {
-      "tag": "freedom",
-      "line": "Today is the anniversary of 1991 Armenian independence referendum (1991).",
-      "source": "wikimedia",
-      "weight": 2
-    },
-    {
-      "tag": "astronomy",
-      "line": "Today is the anniversary of Galileo (spacecraft) (2003).",
+      "tag": "poetry",
+      "line": "Tenali Rama was born on this day in 1480.",
       "source": "wikimedia",
       "weight": 2
     }
