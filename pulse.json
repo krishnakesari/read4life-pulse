@@ -1,34 +1,52 @@
 {
-  "date": "2026-09-23",
-  "generated_at": "2026-09-23T14:15:17+00:00",
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T14:13:07+00:00",
   "signals": [
     {
-      "tag": "launch",
-      "line": "A rocket launches today: Long March 8A carrying Unknown Payload.",
-      "source": "launchlibrary",
-      "weight": 3
+      "tag": "author:f-scott-fitzgerald",
+      "line": "F. Scott Fitzgerald was born on this day in 1896.",
+      "source": "wikimedia",
+      "weight": 4
     },
     {
       "tag": "space",
-      "line": "A rocket launches today: Long March 8A carrying Unknown Payload.",
+      "line": "A rocket launches today: Long March 6A carrying Yaogan 40 Group 04.",
       "source": "launchlibrary",
       "weight": 3
     },
     {
-      "tag": "election",
-      "line": "Today is the anniversary of September 1973 Argentine presidential election (1973).",
+      "tag": "launch",
+      "line": "A rocket launches today: Long March 6A carrying Yaogan 40 Group 04.",
+      "source": "launchlibrary",
+      "weight": 3
+    },
+    {
+      "tag": "explorers",
+      "line": "Today is the anniversary of 1975 British Mount Everest Southwest Face expedition (1975).",
       "source": "wikimedia",
       "weight": 2
     },
     {
-      "tag": "democracy",
-      "line": "Today is the anniversary of September 1973 Argentine presidential election (1973).",
+      "tag": "discovery",
+      "line": "Today is the anniversary of 1975 British Mount Everest Southwest Face expedition (1975).",
+      "source": "wikimedia",
+      "weight": 2
+    },
+    {
+      "tag": "revolution",
+      "line": "Today is the anniversary of Saffron Revolution (2007).",
+      "source": "wikimedia",
+      "weight": 2
+    },
+    {
+      "tag": "mars",
+      "line": "Today is the anniversary of Mars Orbiter Mission (2014).",
       "source": "wikimedia",
       "weight": 2
     },
     {
       "tag": "poetry",
-      "line": "Theodor Körner (author) was born on this day in 1791.",
+      "line": "Mary Ann Browne was born on this day in 1812.",
       "source": "wikimedia",
       "weight": 2
     }
