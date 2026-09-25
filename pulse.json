@@ -1,52 +1,52 @@
 {
-  "date": "2026-09-24",
-  "generated_at": "2026-09-24T14:13:07+00:00",
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T14:36:42+00:00",
   "signals": [
     {
-      "tag": "author:f-scott-fitzgerald",
-      "line": "F. Scott Fitzgerald was born on this day in 1896.",
-      "source": "wikimedia",
-      "weight": 4
-    },
-    {
       "tag": "space",
-      "line": "A rocket launches today: Long March 6A carrying Yaogan 40 Group 04.",
+      "line": "A rocket launches this week: Electron carrying Owlright, Owlright, Owlright (StriX Launch 13).",
       "source": "launchlibrary",
       "weight": 3
     },
     {
       "tag": "launch",
-      "line": "A rocket launches today: Long March 6A carrying Yaogan 40 Group 04.",
+      "line": "A rocket launches this week: Electron carrying Owlright, Owlright, Owlright (StriX Launch 13).",
       "source": "launchlibrary",
       "weight": 3
     },
     {
+      "tag": "law",
+      "line": "Today is the anniversary of Twenty-seventh Amendment to the United States Constitution (1789).",
+      "source": "wikimedia",
+      "weight": 2
+    },
+    {
+      "tag": "democracy",
+      "line": "Today is the anniversary of Twenty-seventh Amendment to the United States Constitution (1789).",
+      "source": "wikimedia",
+      "weight": 2
+    },
+    {
       "tag": "explorers",
-      "line": "Today is the anniversary of 1975 British Mount Everest Southwest Face expedition (1975).",
+      "line": "Today is the anniversary of Lewis and Clark Expedition (1804).",
       "source": "wikimedia",
       "weight": 2
     },
     {
       "tag": "discovery",
-      "line": "Today is the anniversary of 1975 British Mount Everest Southwest Face expedition (1975).",
-      "source": "wikimedia",
-      "weight": 2
-    },
-    {
-      "tag": "revolution",
-      "line": "Today is the anniversary of Saffron Revolution (2007).",
+      "line": "Today is the anniversary of Lewis and Clark Expedition (1804).",
       "source": "wikimedia",
       "weight": 2
     },
     {
       "tag": "mars",
-      "line": "Today is the anniversary of Mars Orbiter Mission (2014).",
+      "line": "Today is the anniversary of Mars Observer (1992).",
       "source": "wikimedia",
       "weight": 2
     },
     {
       "tag": "poetry",
-      "line": "Mary Ann Browne was born on this day in 1812.",
+      "line": "Udumalai Narayana Kavi was born on this day in 1899.",
       "source": "wikimedia",
       "weight": 2
     }
