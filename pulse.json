@@ -1,52 +1,52 @@
 {
-  "date": "2026-09-25",
-  "generated_at": "2026-09-25T14:36:42+00:00",
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T13:45:24+00:00",
   "signals": [
     {
-      "tag": "space",
-      "line": "A rocket launches this week: Electron carrying Owlright, Owlright, Owlright (StriX Launch 13).",
-      "source": "launchlibrary",
+      "tag": "moon",
+      "line": "Tonight's Moon is full.",
+      "source": "computed",
       "weight": 3
+    },
+    {
+      "tag": "night",
+      "line": "Tonight's Moon is full.",
+      "source": "computed",
+      "weight": 3
+    },
+    {
+      "tag": "author:t-s-eliot",
+      "line": "T. S. Eliot was born on this day in 1888.",
+      "source": "wikimedia",
+      "weight": 4
     },
     {
       "tag": "launch",
-      "line": "A rocket launches this week: Electron carrying Owlright, Owlright, Owlright (StriX Launch 13).",
+      "line": "A rocket launches today: Electron carrying Owlright, Owlright, Owlright (StriX Launch 13).",
       "source": "launchlibrary",
       "weight": 3
     },
     {
-      "tag": "law",
-      "line": "Today is the anniversary of Twenty-seventh Amendment to the United States Constitution (1789).",
+      "tag": "space",
+      "line": "A rocket launches today: Electron carrying Owlright, Owlright, Owlright (StriX Launch 13).",
+      "source": "launchlibrary",
+      "weight": 3
+    },
+    {
+      "tag": "relativity",
+      "line": "Today is the anniversary of Albert Einstein (1905).",
       "source": "wikimedia",
       "weight": 2
     },
     {
-      "tag": "democracy",
-      "line": "Today is the anniversary of Twenty-seventh Amendment to the United States Constitution (1789).",
-      "source": "wikimedia",
-      "weight": 2
-    },
-    {
-      "tag": "explorers",
-      "line": "Today is the anniversary of Lewis and Clark Expedition (1804).",
-      "source": "wikimedia",
-      "weight": 2
-    },
-    {
-      "tag": "discovery",
-      "line": "Today is the anniversary of Lewis and Clark Expedition (1804).",
-      "source": "wikimedia",
-      "weight": 2
-    },
-    {
-      "tag": "mars",
-      "line": "Today is the anniversary of Mars Observer (1992).",
+      "tag": "physics",
+      "line": "Today is the anniversary of Albert Einstein (1905).",
       "source": "wikimedia",
       "weight": 2
     },
     {
       "tag": "poetry",
-      "line": "Udumalai Narayana Kavi was born on this day in 1899.",
+      "line": "Joseph Furphy was born on this day in 1843.",
       "source": "wikimedia",
       "weight": 2
     }
