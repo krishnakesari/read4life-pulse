@@ -1,46 +1,52 @@
 {
-  "date": "2026-09-27",
-  "generated_at": "2026-09-27T14:42:12+00:00",
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T17:39:56+00:00",
   "signals": [
     {
-      "tag": "space",
-      "line": "A rocket launches this week: Starship carrying Starlink Group 31-1 (Starship Flight 14).",
+      "tag": "launch",
+      "line": "A rocket launches today: Starship carrying Starlink Group 31-1 (Starship Flight 14).",
       "source": "launchlibrary",
       "weight": 3
     },
     {
-      "tag": "launch",
-      "line": "A rocket launches this week: Starship carrying Starlink Group 31-1 (Starship Flight 14).",
+      "tag": "space",
+      "line": "A rocket launches today: Starship carrying Starlink Group 31-1 (Starship Flight 14).",
       "source": "launchlibrary",
       "weight": 3
+    },
+    {
+      "tag": "revolution",
+      "line": "Today is the anniversary of American Revolution (1779).",
+      "source": "wikimedia",
+      "weight": 2
+    },
+    {
+      "tag": "law",
+      "line": "Today is the anniversary of History of the United States Constitution (1787).",
+      "source": "wikimedia",
+      "weight": 2
     },
     {
       "tag": "democracy",
-      "line": "Today is the anniversary of National League for Democracy (1988).",
+      "line": "Today is the anniversary of History of the United States Constitution (1787).",
+      "source": "wikimedia",
+      "weight": 2
+    },
+    {
+      "tag": "freedom",
+      "line": "Today is the anniversary of Declaration of Independence (Mexico) (1821).",
       "source": "wikimedia",
       "weight": 2
     },
     {
       "tag": "poetry",
-      "line": "Michael Denis was born on this day in 1729.",
+      "line": "Agnolo Firenzuola was born on this day in 1494.",
       "source": "wikimedia",
       "weight": 2
     },
     {
       "tag": "technology",
-      "line": "James H. Wilkinson was born on this day in 1919.",
-      "source": "wikimedia",
-      "weight": 2
-    },
-    {
-      "tag": "machines",
-      "line": "James H. Wilkinson was born on this day in 1919.",
-      "source": "wikimedia",
-      "weight": 2
-    },
-    {
-      "tag": "astronomy",
-      "line": "Tonight's sky, from NASA: Andromeda before Photoshop.",
+      "line": "Tonight's sky, from NASA: Cosmic Latte: The Average Color of the Universe.",
       "source": "nasa",
       "weight": 2
     }
