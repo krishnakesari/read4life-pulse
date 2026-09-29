@@ -1,52 +1,52 @@
 {
-  "date": "2026-09-28",
-  "generated_at": "2026-09-28T17:39:56+00:00",
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T15:52:39+00:00",
   "signals": [
     {
       "tag": "launch",
-      "line": "A rocket launches today: Starship carrying Starlink Group 31-1 (Starship Flight 14).",
+      "line": "A rocket launches this week: Falcon 9 Block 5 carrying Crew-13.",
       "source": "launchlibrary",
       "weight": 3
     },
     {
       "tag": "space",
-      "line": "A rocket launches today: Starship carrying Starlink Group 31-1 (Starship Flight 14).",
+      "line": "A rocket launches this week: Falcon 9 Block 5 carrying Crew-13.",
       "source": "launchlibrary",
       "weight": 3
     },
     {
-      "tag": "revolution",
-      "line": "Today is the anniversary of American Revolution (1779).",
-      "source": "wikimedia",
-      "weight": 2
-    },
-    {
-      "tag": "law",
-      "line": "Today is the anniversary of History of the United States Constitution (1787).",
+      "tag": "election",
+      "line": "Today is the anniversary of 1669 Polish–Lithuanian royal election (1669).",
       "source": "wikimedia",
       "weight": 2
     },
     {
       "tag": "democracy",
-      "line": "Today is the anniversary of History of the United States Constitution (1787).",
-      "source": "wikimedia",
-      "weight": 2
-    },
-    {
-      "tag": "freedom",
-      "line": "Today is the anniversary of Declaration of Independence (Mexico) (1821).",
+      "line": "Today is the anniversary of 1669 Polish–Lithuanian royal election (1669).",
       "source": "wikimedia",
       "weight": 2
     },
     {
       "tag": "poetry",
-      "line": "Agnolo Firenzuola was born on this day in 1494.",
+      "line": "Olive Dehn was born on this day in 1914.",
       "source": "wikimedia",
       "weight": 2
     },
     {
-      "tag": "technology",
-      "line": "Tonight's sky, from NASA: Cosmic Latte: The Average Color of the Universe.",
+      "tag": "children",
+      "line": "Olive Dehn was born on this day in 1914.",
+      "source": "wikimedia",
+      "weight": 2
+    },
+    {
+      "tag": "moon",
+      "line": "Tonight's sky, from NASA: Sh2-188: The Shrimp Nebula.",
+      "source": "nasa",
+      "weight": 2
+    },
+    {
+      "tag": "astronomy",
+      "line": "Tonight's sky, from NASA: Sh2-188: The Shrimp Nebula.",
       "source": "nasa",
       "weight": 2
     }
