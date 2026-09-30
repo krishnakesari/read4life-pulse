@@ -1,7 +1,19 @@
 {
-  "date": "2026-09-29",
-  "generated_at": "2026-09-29T15:52:39+00:00",
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T15:56:23+00:00",
   "signals": [
+    {
+      "tag": "books",
+      "line": "On this day in 1999, Günter Grass was awarded the Nobel Prize in Literature.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "poetry",
+      "line": "On this day in 1999, Günter Grass was awarded the Nobel Prize in Literature.",
+      "source": "nobel",
+      "weight": 3
+    },
     {
       "tag": "launch",
       "line": "A rocket launches this week: Falcon 9 Block 5 carrying Crew-13.",
@@ -15,39 +27,9 @@
       "weight": 3
     },
     {
-      "tag": "election",
-      "line": "Today is the anniversary of 1669 Polish–Lithuanian royal election (1669).",
+      "tag": "explorers",
+      "line": "John Rae (explorer) was born on this day in 1813.",
       "source": "wikimedia",
-      "weight": 2
-    },
-    {
-      "tag": "democracy",
-      "line": "Today is the anniversary of 1669 Polish–Lithuanian royal election (1669).",
-      "source": "wikimedia",
-      "weight": 2
-    },
-    {
-      "tag": "poetry",
-      "line": "Olive Dehn was born on this day in 1914.",
-      "source": "wikimedia",
-      "weight": 2
-    },
-    {
-      "tag": "children",
-      "line": "Olive Dehn was born on this day in 1914.",
-      "source": "wikimedia",
-      "weight": 2
-    },
-    {
-      "tag": "moon",
-      "line": "Tonight's sky, from NASA: Sh2-188: The Shrimp Nebula.",
-      "source": "nasa",
-      "weight": 2
-    },
-    {
-      "tag": "astronomy",
-      "line": "Tonight's sky, from NASA: Sh2-188: The Shrimp Nebula.",
-      "source": "nasa",
       "weight": 2
     }
   ]
