@@ -1,34 +1,52 @@
 {
-  "date": "2026-09-30",
-  "generated_at": "2026-09-30T15:56:23+00:00",
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T16:27:29+00:00",
   "signals": [
     {
-      "tag": "books",
-      "line": "On this day in 1999, Günter Grass was awarded the Nobel Prize in Literature.",
+      "tag": "economy",
+      "line": "On this day in 2018, William D. Nordhaus and Paul M. Romer were awarded the Nobel Prize in Economic Sciences.",
       "source": "nobel",
       "weight": 3
     },
     {
-      "tag": "poetry",
-      "line": "On this day in 1999, Günter Grass was awarded the Nobel Prize in Literature.",
+      "tag": "money",
+      "line": "On this day in 2018, William D. Nordhaus and Paul M. Romer were awarded the Nobel Prize in Economic Sciences.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "health",
+      "line": "On this day in 2018, James P. Allison and Tasuku Honjo were awarded the Nobel Prize in Physiology or Medicine.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "medicine",
+      "line": "On this day in 2018, James P. Allison and Tasuku Honjo were awarded the Nobel Prize in Physiology or Medicine.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "science",
+      "line": "On this day in 2018, James P. Allison and Tasuku Honjo were awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "launch",
-      "line": "A rocket launches this week: Falcon 9 Block 5 carrying Crew-13.",
+      "line": "A rocket launches today: Falcon 9 Block 5 carrying Crew-13.",
       "source": "launchlibrary",
       "weight": 3
     },
     {
       "tag": "space",
-      "line": "A rocket launches this week: Falcon 9 Block 5 carrying Crew-13.",
+      "line": "A rocket launches today: Falcon 9 Block 5 carrying Crew-13.",
       "source": "launchlibrary",
       "weight": 3
     },
     {
-      "tag": "explorers",
-      "line": "John Rae (explorer) was born on this day in 1813.",
+      "tag": "democracy",
+      "line": "Today is the anniversary of Independence Day (Nigeria) (1960).",
       "source": "wikimedia",
       "weight": 2
     }
