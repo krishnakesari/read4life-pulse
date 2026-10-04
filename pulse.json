@@ -1,54 +1,54 @@
 {
-  "date": "2026-10-03",
-  "generated_at": "2026-10-03T14:19:08+00:00",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T14:47:47+00:00",
   "signals": [
     {
-      "tag": "books",
-      "line": "On this day in 1974, Eyvind Johnson and Harry Martinson were awarded the Nobel Prize in Literature.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "poetry",
-      "line": "On this day in 1974, Eyvind Johnson and Harry Martinson were awarded the Nobel Prize in Literature.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
       "tag": "health",
-      "line": "On this day in 2005, Barry J. Marshall and J. Robin Warren were awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 2004, Richard Axel and Linda B. Buck were awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "medicine",
-      "line": "On this day in 2005, Barry J. Marshall and J. Robin Warren were awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 2004, Richard Axel and Linda B. Buck were awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "science",
-      "line": "On this day in 2005, Barry J. Marshall and J. Robin Warren were awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 2004, Richard Axel and Linda B. Buck were awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "physics",
-      "line": "On this day in 2006, John C. Mather and George F. Smoot were awarded the Nobel Prize in Physics.",
+      "line": "On this day in 2005, Roy J. Glauber, John L. Hall and Theodor W. Hänsch were awarded the Nobel Prize in Physics.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "discovery",
-      "line": "On this day in 2018, Frances H. Arnold, George P. Smith and Sir Gregory P. Winter were awarded the Nobel Prize in Chemistry.",
+      "line": "On this day in 2006, Roger D. Kornberg was awarded the Nobel Prize in Chemistry.",
       "source": "nobel",
       "weight": 3
     },
     {
-      "tag": "winter",
-      "line": "On this day in 2018, Frances H. Arnold, George P. Smith and Sir Gregory P. Winter were awarded the Nobel Prize in Chemistry.",
-      "source": "nobel",
+      "tag": "launch",
+      "line": "A rocket launches this week: Falcon 9 Block 5 carrying SDA Tranche 1 Transport Layer A.",
+      "source": "launchlibrary",
       "weight": 3
+    },
+    {
+      "tag": "space",
+      "line": "A rocket launches this week: Falcon 9 Block 5 carrying SDA Tranche 1 Transport Layer A.",
+      "source": "launchlibrary",
+      "weight": 3
+    },
+    {
+      "tag": "law",
+      "line": "Today is the anniversary of 1824 Constitution of Mexico (1824).",
+      "source": "wikimedia",
+      "weight": 2
     }
   ]
 }
