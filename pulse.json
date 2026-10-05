@@ -1,41 +1,47 @@
 {
-  "date": "2026-10-04",
-  "generated_at": "2026-10-04T14:47:47+00:00",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T18:29:42+00:00",
   "signals": [
     {
-      "tag": "health",
-      "line": "On this day in 2004, Richard Axel and Linda B. Buck were awarded the Nobel Prize in Physiology or Medicine.",
+      "tag": "books",
+      "line": "On this day in 1962, John Steinbeck was awarded the Nobel Prize in Literature.",
       "source": "nobel",
       "weight": 3
     },
     {
-      "tag": "medicine",
-      "line": "On this day in 2004, Richard Axel and Linda B. Buck were awarded the Nobel Prize in Physiology or Medicine.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "science",
-      "line": "On this day in 2004, Richard Axel and Linda B. Buck were awarded the Nobel Prize in Physiology or Medicine.",
+      "tag": "poetry",
+      "line": "On this day in 1962, John Steinbeck was awarded the Nobel Prize in Literature.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "physics",
-      "line": "On this day in 2005, Roy J. Glauber, John L. Hall and Theodor W. Hänsch were awarded the Nobel Prize in Physics.",
+      "line": "On this day in 2004, David J. Gross, H. David Politzer and Frank Wilczek were awarded the Nobel Prize in Physics.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "science",
+      "line": "On this day in 2004, David J. Gross, H. David Politzer and Frank Wilczek were awarded the Nobel Prize in Physics.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "discovery",
-      "line": "On this day in 2006, Roger D. Kornberg was awarded the Nobel Prize in Chemistry.",
+      "line": "On this day in 2005, Yves Chauvin, Robert H. Grubbs and Richard R. Schrock were awarded the Nobel Prize in Chemistry.",
       "source": "nobel",
       "weight": 3
     },
     {
-      "tag": "launch",
-      "line": "A rocket launches this week: Falcon 9 Block 5 carrying SDA Tranche 1 Transport Layer A.",
-      "source": "launchlibrary",
+      "tag": "health",
+      "line": "On this day in 2009, Elizabeth H. Blackburn, Carol W. Greider and Jack W. Szostak were awarded the Nobel Prize in Physiology or Medicine.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "medicine",
+      "line": "On this day in 2009, Elizabeth H. Blackburn, Carol W. Greider and Jack W. Szostak were awarded the Nobel Prize in Physiology or Medicine.",
+      "source": "nobel",
       "weight": 3
     },
     {
@@ -43,12 +49,6 @@
       "line": "A rocket launches this week: Falcon 9 Block 5 carrying SDA Tranche 1 Transport Layer A.",
       "source": "launchlibrary",
       "weight": 3
-    },
-    {
-      "tag": "law",
-      "line": "Today is the anniversary of 1824 Constitution of Mexico (1824).",
-      "source": "wikimedia",
-      "weight": 2
     }
   ]
 }
