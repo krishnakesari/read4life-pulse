@@ -1,52 +1,52 @@
 {
-  "date": "2026-10-05",
-  "generated_at": "2026-10-05T18:29:42+00:00",
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T15:58:09+00:00",
   "signals": [
     {
       "tag": "books",
-      "line": "On this day in 1962, John Steinbeck was awarded the Nobel Prize in Literature.",
+      "line": "On this day in 1977, Vicente Aleixandre was awarded the Nobel Prize in Literature.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "poetry",
-      "line": "On this day in 1962, John Steinbeck was awarded the Nobel Prize in Literature.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "physics",
-      "line": "On this day in 2004, David J. Gross, H. David Politzer and Frank Wilczek were awarded the Nobel Prize in Physics.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "science",
-      "line": "On this day in 2004, David J. Gross, H. David Politzer and Frank Wilczek were awarded the Nobel Prize in Physics.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "discovery",
-      "line": "On this day in 2005, Yves Chauvin, Robert H. Grubbs and Richard R. Schrock were awarded the Nobel Prize in Chemistry.",
+      "line": "On this day in 1977, Vicente Aleixandre was awarded the Nobel Prize in Literature.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "health",
-      "line": "On this day in 2009, Elizabeth H. Blackburn, Carol W. Greider and Jack W. Szostak were awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1997, Stanley B. Prusiner was awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "medicine",
-      "line": "On this day in 2009, Elizabeth H. Blackburn, Carol W. Greider and Jack W. Szostak were awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1997, Stanley B. Prusiner was awarded the Nobel Prize in Physiology or Medicine.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "science",
+      "line": "On this day in 1997, Stanley B. Prusiner was awarded the Nobel Prize in Physiology or Medicine.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "discovery",
+      "line": "On this day in 2004, Aaron Ciechanover, Avram Hershko and Irwin Rose were awarded the Nobel Prize in Chemistry.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "physics",
+      "line": "On this day in 2009, Charles K. Kao, Willard S. Boyle and George E. Smith were awarded the Nobel Prize in Physics.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "space",
-      "line": "A rocket launches this week: Falcon 9 Block 5 carrying SDA Tranche 1 Transport Layer A.",
+      "line": "A rocket launches this week: Nuri carrying NeonSat-2 to 6.",
       "source": "launchlibrary",
       "weight": 3
     }
