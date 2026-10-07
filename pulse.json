@@ -1,53 +1,53 @@
 {
-  "date": "2026-10-06",
-  "generated_at": "2026-10-06T15:58:09+00:00",
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T16:29:36+00:00",
   "signals": [
     {
-      "tag": "books",
-      "line": "On this day in 1977, Vicente Aleixandre was awarded the Nobel Prize in Literature.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "poetry",
-      "line": "On this day in 1977, Vicente Aleixandre was awarded the Nobel Prize in Literature.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
       "tag": "health",
-      "line": "On this day in 1997, Stanley B. Prusiner was awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1991, Erwin Neher and Bert Sakmann were awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "medicine",
-      "line": "On this day in 1997, Stanley B. Prusiner was awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1991, Erwin Neher and Bert Sakmann were awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "science",
-      "line": "On this day in 1997, Stanley B. Prusiner was awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1991, Erwin Neher and Bert Sakmann were awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
-      "tag": "discovery",
-      "line": "On this day in 2004, Aaron Ciechanover, Avram Hershko and Irwin Rose were awarded the Nobel Prize in Chemistry.",
+      "tag": "books",
+      "line": "On this day in 1993, Toni Morrison was awarded the Nobel Prize in Literature.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "poetry",
+      "line": "On this day in 1993, Toni Morrison was awarded the Nobel Prize in Literature.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "physics",
-      "line": "On this day in 2009, Charles K. Kao, Willard S. Boyle and George E. Smith were awarded the Nobel Prize in Physics.",
+      "line": "On this day in 2003, Alexei Abrikosov, Vitaly L. Ginzburg and Anthony J. Leggett were awarded the Nobel Prize in Physics.",
       "source": "nobel",
       "weight": 3
     },
     {
-      "tag": "space",
-      "line": "A rocket launches this week: Nuri carrying NeonSat-2 to 6.",
-      "source": "launchlibrary",
+      "tag": "discovery",
+      "line": "On this day in 2009, Venkatraman Ramakrishnan, Thomas A. Steitz and Ada E. Yonath were awarded the Nobel Prize in Chemistry.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "memory",
+      "line": "On this day in 2022, Ales Bialiatski, Memorial and Center for Civil Liberties were awarded the Nobel Prize in Peace.",
+      "source": "nobel",
       "weight": 3
     }
   ]
