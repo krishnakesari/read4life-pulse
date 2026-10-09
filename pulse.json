@@ -1,52 +1,52 @@
 {
-  "date": "2026-10-08",
-  "generated_at": "2026-10-08T16:29:23+00:00",
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T16:13:38+00:00",
   "signals": [
     {
-      "tag": "books",
-      "line": "On this day in 1970, Aleksandr Solzhenitsyn was awarded the Nobel Prize in Literature.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "poetry",
-      "line": "On this day in 1970, Aleksandr Solzhenitsyn was awarded the Nobel Prize in Literature.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "health",
-      "line": "On this day in 1990, Joseph E. Murray and E. Donnall Thomas were awarded the Nobel Prize in Physiology or Medicine.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "medicine",
-      "line": "On this day in 1990, Joseph E. Murray and E. Donnall Thomas were awarded the Nobel Prize in Physiology or Medicine.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "science",
-      "line": "On this day in 1990, Joseph E. Murray and E. Donnall Thomas were awarded the Nobel Prize in Physiology or Medicine.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
       "tag": "economy",
-      "line": "On this day in 1996, James A. Mirrlees and William Vickrey were awarded the Nobel Prize in Economic Sciences.",
+      "line": "On this day in 1974, Gunnar Myrdal and Friedrich von Hayek were awarded the Nobel Prize in Economic Sciences.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "money",
-      "line": "On this day in 1996, James A. Mirrlees and William Vickrey were awarded the Nobel Prize in Economic Sciences.",
+      "line": "On this day in 1974, Gunnar Myrdal and Friedrich von Hayek were awarded the Nobel Prize in Economic Sciences.",
       "source": "nobel",
       "weight": 3
     },
     {
-      "tag": "physics",
-      "line": "On this day in 2002, Raymond Davis Jr., Masatoshi Koshiba and Riccardo Giacconi were awarded the Nobel Prize in Physics.",
+      "tag": "books",
+      "line": "On this day in 1980, Czesław Miłosz was awarded the Nobel Prize in Literature.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "poetry",
+      "line": "On this day in 1980, Czesław Miłosz was awarded the Nobel Prize in Literature.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "health",
+      "line": "On this day in 1981, Roger W. Sperry, David H. Hubel and Torsten N. Wiesel were awarded the Nobel Prize in Physiology or Medicine.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "medicine",
+      "line": "On this day in 1981, Roger W. Sperry, David H. Hubel and Torsten N. Wiesel were awarded the Nobel Prize in Physiology or Medicine.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "science",
+      "line": "On this day in 1981, Roger W. Sperry, David H. Hubel and Torsten N. Wiesel were awarded the Nobel Prize in Physiology or Medicine.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "discovery",
+      "line": "On this day in 1996, Robert F. Curl Jr., Sir Harold Kroto and Richard E. Smalley were awarded the Nobel Prize in Chemistry.",
       "source": "nobel",
       "weight": 3
     }
