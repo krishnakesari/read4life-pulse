@@ -1,52 +1,52 @@
 {
-  "date": "2026-10-09",
-  "generated_at": "2026-10-09T16:13:38+00:00",
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T15:23:19+00:00",
   "signals": [
     {
-      "tag": "economy",
-      "line": "On this day in 1974, Gunnar Myrdal and Friedrich von Hayek were awarded the Nobel Prize in Economic Sciences.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "money",
-      "line": "On this day in 1974, Gunnar Myrdal and Friedrich von Hayek were awarded the Nobel Prize in Economic Sciences.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "books",
-      "line": "On this day in 1980, Czesław Miłosz was awarded the Nobel Prize in Literature.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "poetry",
-      "line": "On this day in 1980, Czesław Miłosz was awarded the Nobel Prize in Literature.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
       "tag": "health",
-      "line": "On this day in 1981, Roger W. Sperry, David H. Hubel and Torsten N. Wiesel were awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1912, Alexis Carrel was awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "medicine",
-      "line": "On this day in 1981, Roger W. Sperry, David H. Hubel and Torsten N. Wiesel were awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1912, Alexis Carrel was awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "science",
-      "line": "On this day in 1981, Roger W. Sperry, David H. Hubel and Torsten N. Wiesel were awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1912, Alexis Carrel was awarded the Nobel Prize in Physiology or Medicine.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "economy",
+      "line": "On this day in 1995, Robert E. Lucas Jr. was awarded the Nobel Prize in Economic Sciences.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "money",
+      "line": "On this day in 1995, Robert E. Lucas Jr. was awarded the Nobel Prize in Economic Sciences.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "discovery",
-      "line": "On this day in 1996, Robert F. Curl Jr., Sir Harold Kroto and Richard E. Smalley were awarded the Nobel Prize in Chemistry.",
+      "line": "On this day in 2000, Alan Heeger, Alan MacDiarmid and Hideki Shirakawa were awarded the Nobel Prize in Chemistry.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "physics",
+      "line": "On this day in 2000, Zhores Alferov, Herbert Kroemer and Jack Kilby were awarded the Nobel Prize in Physics.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "books",
+      "line": "On this day in 2002, Imre Kertész was awarded the Nobel Prize in Literature.",
       "source": "nobel",
       "weight": 3
     }
