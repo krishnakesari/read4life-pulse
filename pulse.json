@@ -1,52 +1,52 @@
 {
-  "date": "2026-10-10",
-  "generated_at": "2026-10-10T15:23:19+00:00",
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T15:42:56+00:00",
   "signals": [
     {
+      "tag": "moon",
+      "line": "Tonight is a new Moon — the darkest sky of the month.",
+      "source": "computed",
+      "weight": 2
+    },
+    {
+      "tag": "night",
+      "line": "Tonight is a new Moon — the darkest sky of the month.",
+      "source": "computed",
+      "weight": 2
+    },
+    {
       "tag": "health",
-      "line": "On this day in 1912, Alexis Carrel was awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1973, Karl von Frisch, Konrad Lorenz and Nikolaas Tinbergen were awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "medicine",
-      "line": "On this day in 1912, Alexis Carrel was awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1973, Karl von Frisch, Konrad Lorenz and Nikolaas Tinbergen were awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "science",
-      "line": "On this day in 1912, Alexis Carrel was awarded the Nobel Prize in Physiology or Medicine.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "economy",
-      "line": "On this day in 1995, Robert E. Lucas Jr. was awarded the Nobel Prize in Economic Sciences.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "money",
-      "line": "On this day in 1995, Robert E. Lucas Jr. was awarded the Nobel Prize in Economic Sciences.",
+      "line": "On this day in 1973, Karl von Frisch, Konrad Lorenz and Nikolaas Tinbergen were awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "discovery",
-      "line": "On this day in 2000, Alan Heeger, Alan MacDiarmid and Hideki Shirakawa were awarded the Nobel Prize in Chemistry.",
+      "line": "On this day in 1977, Ilya Prigogine was awarded the Nobel Prize in Chemistry.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "physics",
-      "line": "On this day in 2000, Zhores Alferov, Herbert Kroemer and Jack Kilby were awarded the Nobel Prize in Physics.",
+      "line": "On this day in 1977, Philip W. Anderson, Sir Nevill F. Mott and John H. Van Vleck were awarded the Nobel Prize in Physics.",
       "source": "nobel",
       "weight": 3
     },
     {
-      "tag": "books",
-      "line": "On this day in 2002, Imre Kertész was awarded the Nobel Prize in Literature.",
+      "tag": "economy",
+      "line": "On this day in 1989, Trygve Haavelmo was awarded the Nobel Prize in Economic Sciences.",
       "source": "nobel",
       "weight": 3
     }
