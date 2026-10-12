@@ -1,52 +1,52 @@
 {
-  "date": "2026-10-11",
-  "generated_at": "2026-10-11T15:42:56+00:00",
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T19:04:00+00:00",
   "signals": [
     {
-      "tag": "moon",
-      "line": "Tonight is a new Moon — the darkest sky of the month.",
-      "source": "computed",
-      "weight": 2
-    },
-    {
-      "tag": "night",
-      "line": "Tonight is a new Moon — the darkest sky of the month.",
-      "source": "computed",
-      "weight": 2
-    },
-    {
       "tag": "health",
-      "line": "On this day in 1973, Karl von Frisch, Konrad Lorenz and Nikolaas Tinbergen were awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1905, Robert Koch was awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "medicine",
-      "line": "On this day in 1973, Karl von Frisch, Konrad Lorenz and Nikolaas Tinbergen were awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1905, Robert Koch was awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "science",
-      "line": "On this day in 1973, Karl von Frisch, Konrad Lorenz and Nikolaas Tinbergen were awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1905, Robert Koch was awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "discovery",
-      "line": "On this day in 1977, Ilya Prigogine was awarded the Nobel Prize in Chemistry.",
+      "line": "On this day in 1989, Sidney Altman and Thomas R. Cech were awarded the Nobel Prize in Chemistry.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "physics",
-      "line": "On this day in 1977, Philip W. Anderson, Sir Nevill F. Mott and John H. Van Vleck were awarded the Nobel Prize in Physics.",
+      "line": "On this day in 1989, Norman F. Ramsey, Hans G. Dehmelt and Wolfgang Paul were awarded the Nobel Prize in Physics.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "economy",
-      "line": "On this day in 1989, Trygve Haavelmo was awarded the Nobel Prize in Economic Sciences.",
+      "line": "On this day in 1993, Robert W. Fogel and Douglass C. North were awarded the Nobel Prize in Economic Sciences.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "money",
+      "line": "On this day in 1993, Robert W. Fogel and Douglass C. North were awarded the Nobel Prize in Economic Sciences.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "books",
+      "line": "On this day in 2000, Gao Xingjian was awarded the Nobel Prize in Literature.",
       "source": "nobel",
       "weight": 3
     }
