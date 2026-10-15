@@ -1,53 +1,53 @@
 {
-  "date": "2026-10-14",
-  "generated_at": "2026-10-14T14:31:17+00:00",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T14:10:25+00:00",
   "signals": [
     {
       "tag": "health",
-      "line": "On this day in 1965, François Jacob, André Lwoff and Jacques Monod were awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1903, Niels Ryberg Finsen was awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "medicine",
-      "line": "On this day in 1965, François Jacob, André Lwoff and Jacques Monod were awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1903, Niels Ryberg Finsen was awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "science",
-      "line": "On this day in 1965, François Jacob, André Lwoff and Jacques Monod were awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1903, Niels Ryberg Finsen was awarded the Nobel Prize in Physiology or Medicine.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "books",
+      "line": "On this day in 1953, Winston Churchill was awarded the Nobel Prize in Literature.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "poetry",
+      "line": "On this day in 1953, Winston Churchill was awarded the Nobel Prize in Literature.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "economy",
-      "line": "On this day in 1975, Leonid Vitaliyevich Kantorovich and Tjalling C. Koopmans were awarded the Nobel Prize in Economic Sciences.",
+      "line": "On this day in 1971, Simon Kuznets was awarded the Nobel Prize in Economic Sciences.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "money",
-      "line": "On this day in 1975, Leonid Vitaliyevich Kantorovich and Tjalling C. Koopmans were awarded the Nobel Prize in Economic Sciences.",
+      "line": "On this day in 1971, Simon Kuznets was awarded the Nobel Prize in Economic Sciences.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "discovery",
-      "line": "On this day in 1980, Paul Berg, Walter Gilbert and Frederick Sanger were awarded the Nobel Prize in Chemistry.",
+      "line": "On this day in 1974, Paul J. Flory was awarded the Nobel Prize in Chemistry.",
       "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "physics",
-      "line": "On this day in 1980, James Cronin and Val Fitch were awarded the Nobel Prize in Physics.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "space",
-      "line": "A rocket launches today: Zhuque-2E Block 2 carrying 10 satellites.",
-      "source": "launchlibrary",
       "weight": 3
     }
   ]
