@@ -1,30 +1,54 @@
 {
-  "date": "2026-10-16",
-  "generated_at": "2026-10-16T13:58:27+00:00",
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T12:58:45+00:00",
   "signals": [
     {
-      "tag": "author:oscar-wilde",
-      "line": "Oscar Wilde was born on this day in 1854.",
-      "source": "wikimedia",
-      "weight": 4
-    },
-    {
-      "tag": "launch",
-      "line": "A rocket launches today: Falcon 9 Block 5 carrying USSF-481.",
-      "source": "launchlibrary",
-      "weight": 3
-    },
-    {
-      "tag": "space",
-      "line": "A rocket launches today: Falcon 9 Block 5 carrying USSF-481.",
-      "source": "launchlibrary",
+      "tag": "books",
+      "line": "On this day in 1957, Albert Camus was awarded the Nobel Prize in Literature.",
+      "source": "nobel",
       "weight": 3
     },
     {
       "tag": "poetry",
-      "line": "Charles Coypeau d'Assoucy was born on this day in 1605.",
-      "source": "wikimedia",
-      "weight": 2
+      "line": "On this day in 1957, Albert Camus was awarded the Nobel Prize in Literature.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "health",
+      "line": "On this day in 1963, Sir John Eccles, Alan Hodgkin and Andrew Huxley were awarded the Nobel Prize in Physiology or Medicine.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "medicine",
+      "line": "On this day in 1963, Sir John Eccles, Alan Hodgkin and Andrew Huxley were awarded the Nobel Prize in Physiology or Medicine.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "science",
+      "line": "On this day in 1963, Sir John Eccles, Alan Hodgkin and Andrew Huxley were awarded the Nobel Prize in Physiology or Medicine.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "discovery",
+      "line": "On this day in 1975, John Cornforth and Vladimir Prelog were awarded the Nobel Prize in Chemistry.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "physics",
+      "line": "On this day in 1975, Aage N. Bohr, Ben R. Mottelson and James Rainwater were awarded the Nobel Prize in Physics.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "economy",
+      "line": "On this day in 1983, Gerard Debreu was awarded the Nobel Prize in Economic Sciences.",
+      "source": "nobel",
+      "weight": 3
     }
   ]
 }
