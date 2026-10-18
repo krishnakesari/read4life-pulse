@@ -1,52 +1,52 @@
 {
-  "date": "2026-10-17",
-  "generated_at": "2026-10-17T12:58:45+00:00",
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T13:18:52+00:00",
   "signals": [
     {
-      "tag": "books",
-      "line": "On this day in 1957, Albert Camus was awarded the Nobel Prize in Literature.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "poetry",
-      "line": "On this day in 1957, Albert Camus was awarded the Nobel Prize in Literature.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
       "tag": "health",
-      "line": "On this day in 1963, Sir John Eccles, Alan Hodgkin and Andrew Huxley were awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1951, Max Theiler was awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "medicine",
-      "line": "On this day in 1963, Sir John Eccles, Alan Hodgkin and Andrew Huxley were awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1951, Max Theiler was awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "science",
-      "line": "On this day in 1963, Sir John Eccles, Alan Hodgkin and Andrew Huxley were awarded the Nobel Prize in Physiology or Medicine.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "discovery",
-      "line": "On this day in 1975, John Cornforth and Vladimir Prelog were awarded the Nobel Prize in Chemistry.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "physics",
-      "line": "On this day in 1975, Aage N. Bohr, Ben R. Mottelson and James Rainwater were awarded the Nobel Prize in Physics.",
+      "line": "On this day in 1951, Max Theiler was awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "economy",
-      "line": "On this day in 1983, Gerard Debreu was awarded the Nobel Prize in Economic Sciences.",
+      "line": "On this day in 1973, Wassily Leontief was awarded the Nobel Prize in Economic Sciences.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "money",
+      "line": "On this day in 1973, Wassily Leontief was awarded the Nobel Prize in Economic Sciences.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "discovery",
+      "line": "On this day in 1976, William Lipscomb was awarded the Nobel Prize in Chemistry.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "physics",
+      "line": "On this day in 1976, Burton Richter and Samuel C.C. Ting were awarded the Nobel Prize in Physics.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "books",
+      "line": "On this day in 1979, Odysseus Elytis was awarded the Nobel Prize in Literature.",
       "source": "nobel",
       "weight": 3
     }
