@@ -1,53 +1,53 @@
 {
-  "date": "2026-10-19",
-  "generated_at": "2026-10-19T16:28:53+00:00",
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T14:19:17+00:00",
   "signals": [
     {
       "tag": "health",
-      "line": "On this day in 1911, Allvar Gullstrand was awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1904, Ivan Pavlov was awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "medicine",
-      "line": "On this day in 1911, Allvar Gullstrand was awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1904, Ivan Pavlov was awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "science",
-      "line": "On this day in 1911, Allvar Gullstrand was awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1904, Ivan Pavlov was awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "books",
-      "line": "On this day in 1967, Miguel Angel Asturias was awarded the Nobel Prize in Literature.",
+      "line": "On this day in 1966, Shmuel Agnon and Nelly Sachs were awarded the Nobel Prize in Literature.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "poetry",
-      "line": "On this day in 1967, Miguel Angel Asturias was awarded the Nobel Prize in Literature.",
+      "line": "On this day in 1966, Shmuel Agnon and Nelly Sachs were awarded the Nobel Prize in Literature.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "discovery",
-      "line": "On this day in 1981, Kenichi Fukui and Roald Hoffmann were awarded the Nobel Prize in Chemistry.",
+      "line": "On this day in 1972, Christian Anfinsen, Stanford Moore and William H. Stein were awarded the Nobel Prize in Chemistry.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "physics",
-      "line": "On this day in 1981, Nicolaas Bloembergen, Arthur L. Schawlow and Kai M. Siegbahn were awarded the Nobel Prize in Physics.",
+      "line": "On this day in 1972, John Bardeen, Leon N. Cooper and Robert Schrieffer were awarded the Nobel Prize in Physics.",
       "source": "nobel",
       "weight": 3
     },
     {
-      "tag": "launch",
-      "line": "A rocket launches today: H3-24 carrying Martian Moons eXploration (MMX).",
-      "source": "launchlibrary",
+      "tag": "economy",
+      "line": "On this day in 1982, George J. Stigler was awarded the Nobel Prize in Economic Sciences.",
+      "source": "nobel",
       "weight": 3
     }
   ]
