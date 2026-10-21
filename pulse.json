@@ -1,52 +1,52 @@
 {
-  "date": "2026-10-20",
-  "generated_at": "2026-10-20T14:19:17+00:00",
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T14:29:59+00:00",
   "signals": [
     {
       "tag": "health",
-      "line": "On this day in 1904, Ivan Pavlov was awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1954, John F. Enders, Thomas H. Weller and Frederick C. Robbins were awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "medicine",
-      "line": "On this day in 1904, Ivan Pavlov was awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1954, John F. Enders, Thomas H. Weller and Frederick C. Robbins were awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "science",
-      "line": "On this day in 1904, Ivan Pavlov was awarded the Nobel Prize in Physiology or Medicine.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "books",
-      "line": "On this day in 1966, Shmuel Agnon and Nelly Sachs were awarded the Nobel Prize in Literature.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "poetry",
-      "line": "On this day in 1966, Shmuel Agnon and Nelly Sachs were awarded the Nobel Prize in Literature.",
+      "line": "On this day in 1954, John F. Enders, Thomas H. Weller and Frederick C. Robbins were awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "discovery",
-      "line": "On this day in 1972, Christian Anfinsen, Stanford Moore and William H. Stein were awarded the Nobel Prize in Chemistry.",
+      "line": "On this day in 1965, Robert B. Woodward was awarded the Nobel Prize in Chemistry.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "physics",
-      "line": "On this day in 1972, John Bardeen, Leon N. Cooper and Robert Schrieffer were awarded the Nobel Prize in Physics.",
+      "line": "On this day in 1965, Sin-Itiro Tomonaga, Julian Schwinger and Richard P. Feynman were awarded the Nobel Prize in Physics.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "books",
+      "line": "On this day in 1971, Pablo Neruda was awarded the Nobel Prize in Literature.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "poetry",
+      "line": "On this day in 1971, Pablo Neruda was awarded the Nobel Prize in Literature.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "economy",
-      "line": "On this day in 1982, George J. Stigler was awarded the Nobel Prize in Economic Sciences.",
+      "line": "On this day in 1987, Robert M. Solow was awarded the Nobel Prize in Economic Sciences.",
       "source": "nobel",
       "weight": 3
     }
