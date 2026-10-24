@@ -1,54 +1,54 @@
 {
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23T14:15:15+00:00",
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T13:20:15+00:00",
   "signals": [
     {
       "tag": "health",
-      "line": "On this day in 1924, Willem Einthoven was awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1935, Hans Spemann was awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "medicine",
-      "line": "On this day in 1924, Willem Einthoven was awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1935, Hans Spemann was awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "science",
-      "line": "On this day in 1924, Willem Einthoven was awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1935, Hans Spemann was awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "books",
-      "line": "On this day in 1969, Samuel Beckett was awarded the Nobel Prize in Literature.",
+      "line": "On this day in 1963, Giorgos Seferis was awarded the Nobel Prize in Literature.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "poetry",
-      "line": "On this day in 1969, Samuel Beckett was awarded the Nobel Prize in Literature.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "discovery",
-      "line": "On this day in 1973, Ernst Otto Fischer and Geoffrey Wilkinson were awarded the Nobel Prize in Chemistry.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "physics",
-      "line": "On this day in 1973, Leo Esaki, Ivar Giaever and Brian D. Josephson were awarded the Nobel Prize in Physics.",
+      "line": "On this day in 1963, Giorgos Seferis was awarded the Nobel Prize in Literature.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "launch",
-      "line": "A rocket launches today: Electron carrying We're Not Hawking Around (3x HawkEye 360).",
+      "line": "A rocket launches this week: Long March 8A carrying Unknown Payload.",
       "source": "launchlibrary",
       "weight": 3
+    },
+    {
+      "tag": "space",
+      "line": "A rocket launches this week: Long March 8A carrying Unknown Payload.",
+      "source": "launchlibrary",
+      "weight": 3
+    },
+    {
+      "tag": "explorers",
+      "line": "Georg August Wallin was born on this day in 1811.",
+      "source": "wikimedia",
+      "weight": 2
     }
   ]
 }
