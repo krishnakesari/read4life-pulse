@@ -1,52 +1,52 @@
 {
-  "date": "2026-10-25",
-  "generated_at": "2026-10-25T13:43:13+00:00",
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T16:08:23+00:00",
   "signals": [
     {
+      "tag": "moon",
+      "line": "Tonight's Moon is full.",
+      "source": "computed",
+      "weight": 3
+    },
+    {
+      "tag": "night",
+      "line": "Tonight's Moon is full.",
+      "source": "computed",
+      "weight": 3
+    },
+    {
       "tag": "health",
-      "line": "On this day in 1906, Camillo Golgi and Santiago Ramón y Cajal were awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1938, Corneille Heymans was awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "medicine",
-      "line": "On this day in 1906, Camillo Golgi and Santiago Ramón y Cajal were awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1938, Corneille Heymans was awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "science",
-      "line": "On this day in 1906, Camillo Golgi and Santiago Ramón y Cajal were awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1938, Corneille Heymans was awarded the Nobel Prize in Physiology or Medicine.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "discovery",
+      "line": "On this day in 1959, Jaroslav Heyrovsky was awarded the Nobel Prize in Chemistry.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "physics",
+      "line": "On this day in 1959, Emilio Segrè and Owen Chamberlain were awarded the Nobel Prize in Physics.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "books",
-      "line": "On this day in 1956, Juan Ramón Jiménez was awarded the Nobel Prize in Literature.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "poetry",
-      "line": "On this day in 1956, Juan Ramón Jiménez was awarded the Nobel Prize in Literature.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "children",
-      "line": "On this day in 1965, United Nations Children's Fund was awarded the Nobel Prize in Peace.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "economy",
-      "line": "On this day in 1972, John R. Hicks and Kenneth J. Arrow were awarded the Nobel Prize in Economic Sciences.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "money",
-      "line": "On this day in 1972, John R. Hicks and Kenneth J. Arrow were awarded the Nobel Prize in Economic Sciences.",
+      "line": "On this day in 1960, Saint-John Perse was awarded the Nobel Prize in Literature.",
       "source": "nobel",
       "weight": 3
     }
