@@ -1,54 +1,54 @@
 {
-  "date": "2026-10-28",
-  "generated_at": "2026-10-28T16:03:50+00:00",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T16:08:01+00:00",
   "signals": [
     {
       "tag": "health",
-      "line": "On this day in 1909, Theodor Kocher was awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1908, Ilya Mechnikov and Paul Ehrlich were awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "medicine",
-      "line": "On this day in 1909, Theodor Kocher was awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1908, Ilya Mechnikov and Paul Ehrlich were awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "science",
-      "line": "On this day in 1909, Theodor Kocher was awarded the Nobel Prize in Physiology or Medicine.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "books",
-      "line": "On this day in 1954, Ernest Hemingway was awarded the Nobel Prize in Literature.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "poetry",
-      "line": "On this day in 1954, Ernest Hemingway was awarded the Nobel Prize in Literature.",
+      "line": "On this day in 1908, Ilya Mechnikov and Paul Ehrlich were awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "discovery",
-      "line": "On this day in 1958, Frederick Sanger was awarded the Nobel Prize in Chemistry.",
+      "line": "On this day in 1964, Dorothy Crowfoot Hodgkin was awarded the Nobel Prize in Chemistry.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "physics",
-      "line": "On this day in 1958, Pavel A. Cherenkov, Il´ja M. Frank and Igor Y. Tamm were awarded the Nobel Prize in Physics.",
+      "line": "On this day in 1964, Charles H. Townes, Nicolay G. Basov and Aleksandr M. Prokhorov were awarded the Nobel Prize in Physics.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "space",
-      "line": "A rocket launches this week: Falcon 9 Block 5 carrying Starlink Group 15-18.",
+      "line": "A rocket launches this week: GSLV Mk II carrying IRNSS-1L (NVS-03).",
       "source": "launchlibrary",
       "weight": 3
+    },
+    {
+      "tag": "launch",
+      "line": "A rocket launches this week: GSLV Mk II carrying IRNSS-1L (NVS-03).",
+      "source": "launchlibrary",
+      "weight": 3
+    },
+    {
+      "tag": "astronomy",
+      "line": "Today is the anniversary of Galileo (spacecraft) (1991).",
+      "source": "wikimedia",
+      "weight": 2
     }
   ]
 }
