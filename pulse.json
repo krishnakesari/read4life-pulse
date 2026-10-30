@@ -1,52 +1,52 @@
 {
-  "date": "2026-10-29",
-  "generated_at": "2026-10-29T16:08:01+00:00",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T15:56:27+00:00",
   "signals": [
     {
       "tag": "health",
-      "line": "On this day in 1908, Ilya Mechnikov and Paul Ehrlich were awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1901, Emil von Behring was awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "medicine",
-      "line": "On this day in 1908, Ilya Mechnikov and Paul Ehrlich were awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1901, Emil von Behring was awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "science",
-      "line": "On this day in 1908, Ilya Mechnikov and Paul Ehrlich were awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1901, Emil von Behring was awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "discovery",
-      "line": "On this day in 1964, Dorothy Crowfoot Hodgkin was awarded the Nobel Prize in Chemistry.",
+      "line": "On this day in 1967, Manfred Eigen, Ronald G.W. Norrish and George Porter were awarded the Nobel Prize in Chemistry.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "physics",
-      "line": "On this day in 1964, Charles H. Townes, Nicolay G. Basov and Aleksandr M. Prokhorov were awarded the Nobel Prize in Physics.",
+      "line": "On this day in 1967, Hans Bethe was awarded the Nobel Prize in Physics.",
       "source": "nobel",
       "weight": 3
     },
     {
-      "tag": "space",
-      "line": "A rocket launches this week: GSLV Mk II carrying IRNSS-1L (NVS-03).",
-      "source": "launchlibrary",
-      "weight": 3
-    },
-    {
       "tag": "launch",
-      "line": "A rocket launches this week: GSLV Mk II carrying IRNSS-1L (NVS-03).",
+      "line": "A rocket launches today: GSLV Mk II carrying IRNSS-1L (NVS-03).",
       "source": "launchlibrary",
       "weight": 3
     },
     {
-      "tag": "astronomy",
-      "line": "Today is the anniversary of Galileo (spacecraft) (1991).",
+      "tag": "space",
+      "line": "A rocket launches today: GSLV Mk II carrying IRNSS-1L (NVS-03).",
+      "source": "launchlibrary",
+      "weight": 3
+    },
+    {
+      "tag": "poetry",
+      "line": "André Chénier was born on this day in 1762.",
       "source": "wikimedia",
       "weight": 2
     }
