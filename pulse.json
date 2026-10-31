@@ -1,52 +1,52 @@
 {
-  "date": "2026-10-30",
-  "generated_at": "2026-10-30T15:56:27+00:00",
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T15:20:28+00:00",
   "signals": [
     {
       "tag": "health",
-      "line": "On this day in 1901, Emil von Behring was awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1907, Alphonse Laveran was awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "medicine",
-      "line": "On this day in 1901, Emil von Behring was awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1907, Alphonse Laveran was awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "science",
-      "line": "On this day in 1901, Emil von Behring was awarded the Nobel Prize in Physiology or Medicine.",
+      "line": "On this day in 1907, Alphonse Laveran was awarded the Nobel Prize in Physiology or Medicine.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "discovery",
-      "line": "On this day in 1967, Manfred Eigen, Ronald G.W. Norrish and George Porter were awarded the Nobel Prize in Chemistry.",
+      "line": "On this day in 1957, Lord Todd was awarded the Nobel Prize in Chemistry.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "physics",
-      "line": "On this day in 1967, Hans Bethe was awarded the Nobel Prize in Physics.",
+      "line": "On this day in 1957, Chen Ning Yang and Tsung-Dao Lee were awarded the Nobel Prize in Physics.",
       "source": "nobel",
       "weight": 3
     },
     {
-      "tag": "launch",
-      "line": "A rocket launches today: GSLV Mk II carrying IRNSS-1L (NVS-03).",
-      "source": "launchlibrary",
-      "weight": 3
-    },
-    {
       "tag": "space",
-      "line": "A rocket launches today: GSLV Mk II carrying IRNSS-1L (NVS-03).",
+      "line": "A rocket launches today: Falcon 9 Block 5 carrying Starlink Group 15-18.",
       "source": "launchlibrary",
       "weight": 3
     },
     {
-      "tag": "poetry",
-      "line": "André Chénier was born on this day in 1762.",
+      "tag": "launch",
+      "line": "A rocket launches today: Falcon 9 Block 5 carrying Starlink Group 15-18.",
+      "source": "launchlibrary",
+      "weight": 3
+    },
+    {
+      "tag": "books",
+      "line": "Today is the anniversary of Leiden University Library (1587).",
       "source": "wikimedia",
       "weight": 2
     }
