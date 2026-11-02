@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-01",
-  "generated_at": "2026-11-01T16:02:11+00:00",
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T19:29:58+00:00",
   "signals": [
     {
       "tag": "november",
@@ -10,43 +10,43 @@
     },
     {
       "tag": "science",
-      "line": "On this day in 1956, Sir Cyril Hinshelwood and Nikolay Semenov were awarded the Nobel Prize in Chemistry.",
+      "line": "On this day in 1955, Vincent du Vigneaud was awarded the Nobel Prize in Chemistry.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "discovery",
-      "line": "On this day in 1956, Sir Cyril Hinshelwood and Nikolay Semenov were awarded the Nobel Prize in Chemistry.",
+      "line": "On this day in 1955, Vincent du Vigneaud was awarded the Nobel Prize in Chemistry.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "physics",
-      "line": "On this day in 1956, William B. Shockley, John Bardeen and Walter H. Brattain were awarded the Nobel Prize in Physics.",
+      "line": "On this day in 1955, Willis E. Lamb and Polykarp Kusch were awarded the Nobel Prize in Physics.",
       "source": "nobel",
       "weight": 3
     },
     {
-      "tag": "launch",
-      "line": "A rocket launches this week: Electron carrying The Sea God Surveys (iQPS Launch 9).",
+      "tag": "space",
+      "line": "A rocket launches today: Electron carrying The Sea God Surveys (iQPS Launch 9).",
       "source": "launchlibrary",
       "weight": 3
     },
     {
-      "tag": "space",
-      "line": "A rocket launches this week: Electron carrying The Sea God Surveys (iQPS Launch 9).",
+      "tag": "launch",
+      "line": "A rocket launches today: Electron carrying The Sea God Surveys (iQPS Launch 9).",
       "source": "launchlibrary",
       "weight": 3
     },
     {
       "tag": "sea",
-      "line": "A rocket launches this week: Electron carrying The Sea God Surveys (iQPS Launch 9).",
+      "line": "A rocket launches today: Electron carrying The Sea God Surveys (iQPS Launch 9).",
       "source": "launchlibrary",
       "weight": 3
     },
     {
-      "tag": "democracy",
-      "line": "Today is the anniversary of Library of Congress (1897).",
+      "tag": "revolution",
+      "line": "Today is the anniversary of Hungarian Revolution of 1956 (1956).",
       "source": "wikimedia",
       "weight": 2
     }
