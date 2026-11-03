@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-02",
-  "generated_at": "2026-11-02T19:29:58+00:00",
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T17:04:26+00:00",
   "signals": [
     {
       "tag": "november",
@@ -10,43 +10,43 @@
     },
     {
       "tag": "science",
-      "line": "On this day in 1955, Vincent du Vigneaud was awarded the Nobel Prize in Chemistry.",
+      "line": "On this day in 1949, William F. Giauque was awarded the Nobel Prize in Chemistry.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "discovery",
-      "line": "On this day in 1955, Vincent du Vigneaud was awarded the Nobel Prize in Chemistry.",
+      "line": "On this day in 1949, William F. Giauque was awarded the Nobel Prize in Chemistry.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "physics",
-      "line": "On this day in 1955, Willis E. Lamb and Polykarp Kusch were awarded the Nobel Prize in Physics.",
+      "line": "On this day in 1949, Hideki Yukawa was awarded the Nobel Prize in Physics.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "space",
-      "line": "A rocket launches today: Electron carrying The Sea God Surveys (iQPS Launch 9).",
+      "line": "A rocket launches today: Kinetica 2 carrying SpaceSail Polar Group #17.",
       "source": "launchlibrary",
       "weight": 3
     },
     {
       "tag": "launch",
-      "line": "A rocket launches today: Electron carrying The Sea God Surveys (iQPS Launch 9).",
+      "line": "A rocket launches today: Kinetica 2 carrying SpaceSail Polar Group #17.",
       "source": "launchlibrary",
       "weight": 3
     },
     {
-      "tag": "sea",
-      "line": "A rocket launches today: Electron carrying The Sea God Surveys (iQPS Launch 9).",
-      "source": "launchlibrary",
-      "weight": 3
+      "tag": "law",
+      "line": "Today is the anniversary of Constitution of the Netherlands (1848).",
+      "source": "wikimedia",
+      "weight": 2
     },
     {
-      "tag": "revolution",
-      "line": "Today is the anniversary of Hungarian Revolution of 1956 (1956).",
+      "tag": "democracy",
+      "line": "Today is the anniversary of Constitution of the Netherlands (1848).",
       "source": "wikimedia",
       "weight": 2
     }
