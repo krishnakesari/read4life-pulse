@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-03",
-  "generated_at": "2026-11-03T17:04:26+00:00",
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T17:15:35+00:00",
   "signals": [
     {
       "tag": "november",
@@ -10,45 +10,45 @@
     },
     {
       "tag": "science",
-      "line": "On this day in 1949, William F. Giauque was awarded the Nobel Prize in Chemistry.",
+      "line": "On this day in 1948, Arne Tiselius was awarded the Nobel Prize in Chemistry.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "discovery",
-      "line": "On this day in 1949, William F. Giauque was awarded the Nobel Prize in Chemistry.",
+      "line": "On this day in 1948, Arne Tiselius was awarded the Nobel Prize in Chemistry.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "books",
+      "line": "On this day in 1948, T.S. Eliot was awarded the Nobel Prize in Literature.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "poetry",
+      "line": "On this day in 1948, T.S. Eliot was awarded the Nobel Prize in Literature.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "physics",
-      "line": "On this day in 1949, Hideki Yukawa was awarded the Nobel Prize in Physics.",
+      "line": "On this day in 1948, Patrick M.S. Blackett was awarded the Nobel Prize in Physics.",
       "source": "nobel",
       "weight": 3
     },
     {
-      "tag": "space",
-      "line": "A rocket launches today: Kinetica 2 carrying SpaceSail Polar Group #17.",
-      "source": "launchlibrary",
-      "weight": 3
-    },
-    {
       "tag": "launch",
-      "line": "A rocket launches today: Kinetica 2 carrying SpaceSail Polar Group #17.",
+      "line": "A rocket launches this week: Long March 2C carrying Unknown Payload.",
       "source": "launchlibrary",
       "weight": 3
     },
     {
-      "tag": "law",
-      "line": "Today is the anniversary of Constitution of the Netherlands (1848).",
-      "source": "wikimedia",
-      "weight": 2
-    },
-    {
-      "tag": "democracy",
-      "line": "Today is the anniversary of Constitution of the Netherlands (1848).",
-      "source": "wikimedia",
-      "weight": 2
+      "tag": "space",
+      "line": "A rocket launches this week: Long March 2C carrying Unknown Payload.",
+      "source": "launchlibrary",
+      "weight": 3
     }
   ]
 }
