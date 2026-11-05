@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-04",
-  "generated_at": "2026-11-04T17:15:35+00:00",
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T17:25:01+00:00",
   "signals": [
     {
       "tag": "november",
@@ -9,44 +9,44 @@
       "weight": 1
     },
     {
-      "tag": "science",
-      "line": "On this day in 1948, Arne Tiselius was awarded the Nobel Prize in Chemistry.",
+      "tag": "physics",
+      "line": "On this day in 1910, Johannes Diderik van der Waals was awarded the Nobel Prize in Physics.",
       "source": "nobel",
       "weight": 3
     },
     {
-      "tag": "discovery",
-      "line": "On this day in 1948, Arne Tiselius was awarded the Nobel Prize in Chemistry.",
+      "tag": "science",
+      "line": "On this day in 1910, Johannes Diderik van der Waals was awarded the Nobel Prize in Physics.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "books",
-      "line": "On this day in 1948, T.S. Eliot was awarded the Nobel Prize in Literature.",
+      "line": "On this day in 1930, Sinclair Lewis was awarded the Nobel Prize in Literature.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "poetry",
-      "line": "On this day in 1948, T.S. Eliot was awarded the Nobel Prize in Literature.",
+      "line": "On this day in 1930, Sinclair Lewis was awarded the Nobel Prize in Literature.",
       "source": "nobel",
       "weight": 3
     },
     {
-      "tag": "physics",
-      "line": "On this day in 1948, Patrick M.S. Blackett was awarded the Nobel Prize in Physics.",
+      "tag": "discovery",
+      "line": "On this day in 1963, Karl Ziegler and Giulio Natta were awarded the Nobel Prize in Chemistry.",
       "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "launch",
-      "line": "A rocket launches this week: Long March 2C carrying Unknown Payload.",
-      "source": "launchlibrary",
       "weight": 3
     },
     {
       "tag": "space",
-      "line": "A rocket launches this week: Long March 2C carrying Unknown Payload.",
+      "line": "A rocket launches today: Long March 2C carrying Yaogan 51-07 to 09.",
+      "source": "launchlibrary",
+      "weight": 3
+    },
+    {
+      "tag": "launch",
+      "line": "A rocket launches today: Long March 2C carrying Yaogan 51-07 to 09.",
       "source": "launchlibrary",
       "weight": 3
     }
