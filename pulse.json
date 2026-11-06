@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-05",
-  "generated_at": "2026-11-05T17:25:01+00:00",
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T16:46:38+00:00",
   "signals": [
     {
       "tag": "november",
@@ -9,44 +9,44 @@
       "weight": 1
     },
     {
-      "tag": "physics",
-      "line": "On this day in 1910, Johannes Diderik van der Waals was awarded the Nobel Prize in Physics.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
       "tag": "science",
-      "line": "On this day in 1910, Johannes Diderik van der Waals was awarded the Nobel Prize in Physics.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "books",
-      "line": "On this day in 1930, Sinclair Lewis was awarded the Nobel Prize in Literature.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "poetry",
-      "line": "On this day in 1930, Sinclair Lewis was awarded the Nobel Prize in Literature.",
+      "line": "On this day in 1952, Archer J.P. Martin and Richard L.M. Synge were awarded the Nobel Prize in Chemistry.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "discovery",
-      "line": "On this day in 1963, Karl Ziegler and Giulio Natta were awarded the Nobel Prize in Chemistry.",
+      "line": "On this day in 1952, Archer J.P. Martin and Richard L.M. Synge were awarded the Nobel Prize in Chemistry.",
       "source": "nobel",
       "weight": 3
     },
     {
-      "tag": "space",
-      "line": "A rocket launches today: Long March 2C carrying Yaogan 51-07 to 09.",
-      "source": "launchlibrary",
+      "tag": "books",
+      "line": "On this day in 1952, François Mauriac was awarded the Nobel Prize in Literature.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "poetry",
+      "line": "On this day in 1952, François Mauriac was awarded the Nobel Prize in Literature.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "physics",
+      "line": "On this day in 1952, Felix Bloch and E. M. Purcell were awarded the Nobel Prize in Physics.",
+      "source": "nobel",
       "weight": 3
     },
     {
       "tag": "launch",
-      "line": "A rocket launches today: Long March 2C carrying Yaogan 51-07 to 09.",
+      "line": "A rocket launches today: Ceres-2 carrying Unknown Payload.",
+      "source": "launchlibrary",
+      "weight": 3
+    },
+    {
+      "tag": "space",
+      "line": "A rocket launches today: Ceres-2 carrying Unknown Payload.",
       "source": "launchlibrary",
       "weight": 3
     }
