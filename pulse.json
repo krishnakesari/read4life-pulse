@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-07",
-  "generated_at": "2026-11-07T15:40:06+00:00",
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T15:58:43+00:00",
   "signals": [
     {
       "tag": "november",
@@ -9,45 +9,45 @@
       "weight": 1
     },
     {
-      "tag": "author:marie-curie",
-      "line": "Marie Curie was born on this day in 1867.",
-      "source": "wikimedia",
-      "weight": 4
-    },
-    {
-      "tag": "books",
-      "line": "On this day in 1907, Rudyard Kipling was awarded the Nobel Prize in Literature.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "poetry",
-      "line": "On this day in 1907, Rudyard Kipling was awarded the Nobel Prize in Literature.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
       "tag": "science",
-      "line": "On this day in 1911, Marie Curie was awarded the Nobel Prize in Chemistry.",
+      "line": "On this day in 1904, Sir William Ramsay was awarded the Nobel Prize in Chemistry.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "discovery",
-      "line": "On this day in 1911, Marie Curie was awarded the Nobel Prize in Chemistry.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "radiation",
-      "line": "On this day in 1911, Marie Curie was awarded the Nobel Prize in Chemistry.",
+      "line": "On this day in 1904, Sir William Ramsay was awarded the Nobel Prize in Chemistry.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "physics",
-      "line": "On this day in 1911, Wilhelm Wien was awarded the Nobel Prize in Physics.",
+      "line": "On this day in 1904, Lord Rayleigh was awarded the Nobel Prize in Physics.",
       "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "books",
+      "line": "On this day in 1906, Giosuè Carducci was awarded the Nobel Prize in Literature.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "poetry",
+      "line": "On this day in 1906, Giosuè Carducci was awarded the Nobel Prize in Literature.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "launch",
+      "line": "A rocket launches today: Long March 12 carrying SatNet LEO Group TBD?.",
+      "source": "launchlibrary",
+      "weight": 3
+    },
+    {
+      "tag": "space",
+      "line": "A rocket launches today: Long March 12 carrying SatNet LEO Group TBD?.",
+      "source": "launchlibrary",
       "weight": 3
     }
   ]
