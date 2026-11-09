@@ -1,7 +1,19 @@
 {
-  "date": "2026-11-08",
-  "generated_at": "2026-11-08T15:58:43+00:00",
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T19:50:04+00:00",
   "signals": [
+    {
+      "tag": "moon",
+      "line": "Tonight is a new Moon — the darkest sky of the month.",
+      "source": "computed",
+      "weight": 2
+    },
+    {
+      "tag": "night",
+      "line": "Tonight is a new Moon — the darkest sky of the month.",
+      "source": "computed",
+      "weight": 2
+    },
     {
       "tag": "november",
       "line": "It's November.",
@@ -10,44 +22,32 @@
     },
     {
       "tag": "science",
-      "line": "On this day in 1904, Sir William Ramsay was awarded the Nobel Prize in Chemistry.",
+      "line": "On this day in 1905, Adolf von Baeyer was awarded the Nobel Prize in Chemistry.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "discovery",
-      "line": "On this day in 1904, Sir William Ramsay was awarded the Nobel Prize in Chemistry.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "physics",
-      "line": "On this day in 1904, Lord Rayleigh was awarded the Nobel Prize in Physics.",
+      "line": "On this day in 1905, Adolf von Baeyer was awarded the Nobel Prize in Chemistry.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "books",
-      "line": "On this day in 1906, Giosuè Carducci was awarded the Nobel Prize in Literature.",
+      "line": "On this day in 1905, Henryk Sienkiewicz was awarded the Nobel Prize in Literature.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "poetry",
-      "line": "On this day in 1906, Giosuè Carducci was awarded the Nobel Prize in Literature.",
+      "line": "On this day in 1905, Henryk Sienkiewicz was awarded the Nobel Prize in Literature.",
       "source": "nobel",
       "weight": 3
     },
     {
-      "tag": "launch",
-      "line": "A rocket launches today: Long March 12 carrying SatNet LEO Group TBD?.",
-      "source": "launchlibrary",
-      "weight": 3
-    },
-    {
-      "tag": "space",
-      "line": "A rocket launches today: Long March 12 carrying SatNet LEO Group TBD?.",
-      "source": "launchlibrary",
+      "tag": "physics",
+      "line": "On this day in 1905, Philipp Lenard was awarded the Nobel Prize in Physics.",
+      "source": "nobel",
       "weight": 3
     }
   ]
