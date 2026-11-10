@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-09",
-  "generated_at": "2026-11-09T19:50:04+00:00",
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T17:03:34+00:00",
   "signals": [
     {
       "tag": "moon",
@@ -22,31 +22,31 @@
     },
     {
       "tag": "science",
-      "line": "On this day in 1905, Adolf von Baeyer was awarded the Nobel Prize in Chemistry.",
+      "line": "On this day in 1908, Ernest Rutherford was awarded the Nobel Prize in Chemistry.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "discovery",
-      "line": "On this day in 1905, Adolf von Baeyer was awarded the Nobel Prize in Chemistry.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "books",
-      "line": "On this day in 1905, Henryk Sienkiewicz was awarded the Nobel Prize in Literature.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "poetry",
-      "line": "On this day in 1905, Henryk Sienkiewicz was awarded the Nobel Prize in Literature.",
+      "line": "On this day in 1908, Ernest Rutherford was awarded the Nobel Prize in Chemistry.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "physics",
-      "line": "On this day in 1905, Philipp Lenard was awarded the Nobel Prize in Physics.",
+      "line": "On this day in 1908, Gabriel Lippmann was awarded the Nobel Prize in Physics.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "books",
+      "line": "On this day in 1910, Paul Heyse was awarded the Nobel Prize in Literature.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "poetry",
+      "line": "On this day in 1910, Paul Heyse was awarded the Nobel Prize in Literature.",
       "source": "nobel",
       "weight": 3
     }
