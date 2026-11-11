@@ -1,19 +1,7 @@
 {
-  "date": "2026-11-10",
-  "generated_at": "2026-11-10T17:03:34+00:00",
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T17:08:15+00:00",
   "signals": [
-    {
-      "tag": "moon",
-      "line": "Tonight is a new Moon — the darkest sky of the month.",
-      "source": "computed",
-      "weight": 2
-    },
-    {
-      "tag": "night",
-      "line": "Tonight is a new Moon — the darkest sky of the month.",
-      "source": "computed",
-      "weight": 2
-    },
     {
       "tag": "november",
       "line": "It's November.",
@@ -22,32 +10,44 @@
     },
     {
       "tag": "science",
-      "line": "On this day in 1908, Ernest Rutherford was awarded the Nobel Prize in Chemistry.",
+      "line": "On this day in 1902, Emil Fischer was awarded the Nobel Prize in Chemistry.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "discovery",
-      "line": "On this day in 1908, Ernest Rutherford was awarded the Nobel Prize in Chemistry.",
+      "line": "On this day in 1902, Emil Fischer was awarded the Nobel Prize in Chemistry.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "physics",
-      "line": "On this day in 1908, Gabriel Lippmann was awarded the Nobel Prize in Physics.",
+      "line": "On this day in 1902, Hendrik A. Lorentz and Pieter Zeeman were awarded the Nobel Prize in Physics.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "books",
-      "line": "On this day in 1910, Paul Heyse was awarded the Nobel Prize in Literature.",
+      "line": "On this day in 1909, Selma Lagerlöf was awarded the Nobel Prize in Literature.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "poetry",
-      "line": "On this day in 1910, Paul Heyse was awarded the Nobel Prize in Literature.",
+      "line": "On this day in 1909, Selma Lagerlöf was awarded the Nobel Prize in Literature.",
       "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "launch",
+      "line": "A rocket launches today: Long March 2D carrying CAS Pathfinder-1.",
+      "source": "launchlibrary",
+      "weight": 3
+    },
+    {
+      "tag": "space",
+      "line": "A rocket launches today: Long March 2D carrying CAS Pathfinder-1.",
+      "source": "launchlibrary",
       "weight": 3
     }
   ]
