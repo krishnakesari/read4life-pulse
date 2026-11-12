@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-11",
-  "generated_at": "2026-11-11T17:08:15+00:00",
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T17:36:12+00:00",
   "signals": [
     {
       "tag": "november",
@@ -10,43 +10,43 @@
     },
     {
       "tag": "science",
-      "line": "On this day in 1902, Emil Fischer was awarded the Nobel Prize in Chemistry.",
+      "line": "On this day in 1901, Jacobus H. van 't Hoff was awarded the Nobel Prize in Chemistry.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "discovery",
-      "line": "On this day in 1902, Emil Fischer was awarded the Nobel Prize in Chemistry.",
+      "line": "On this day in 1901, Jacobus H. van 't Hoff was awarded the Nobel Prize in Chemistry.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "physics",
-      "line": "On this day in 1902, Hendrik A. Lorentz and Pieter Zeeman were awarded the Nobel Prize in Physics.",
+      "line": "On this day in 1901, Wilhelm Conrad Röntgen was awarded the Nobel Prize in Physics.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "radiation",
+      "line": "On this day in 1903, Henri Becquerel, Pierre Curie and Marie Curie were awarded the Nobel Prize in Physics.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "books",
-      "line": "On this day in 1909, Selma Lagerlöf was awarded the Nobel Prize in Literature.",
+      "line": "On this day in 1908, Rudolf Eucken was awarded the Nobel Prize in Literature.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "poetry",
-      "line": "On this day in 1909, Selma Lagerlöf was awarded the Nobel Prize in Literature.",
+      "line": "On this day in 1908, Rudolf Eucken was awarded the Nobel Prize in Literature.",
       "source": "nobel",
       "weight": 3
     },
     {
-      "tag": "launch",
-      "line": "A rocket launches today: Long March 2D carrying CAS Pathfinder-1.",
-      "source": "launchlibrary",
-      "weight": 3
-    },
-    {
       "tag": "space",
-      "line": "A rocket launches today: Long March 2D carrying CAS Pathfinder-1.",
+      "line": "A rocket launches today: Falcon 9 Block 5 carrying USSF-627.",
       "source": "launchlibrary",
       "weight": 3
     }
