@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-13",
-  "generated_at": "2026-11-13T17:13:08+00:00",
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T15:49:25+00:00",
   "signals": [
     {
       "tag": "november",
@@ -10,43 +10,43 @@
     },
     {
       "tag": "books",
-      "line": "On this day in 1902, Theodor Mommsen was awarded the Nobel Prize in Literature.",
+      "line": "On this day in 1901, Sully Prudhomme was awarded the Nobel Prize in Literature.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "poetry",
-      "line": "On this day in 1902, Theodor Mommsen was awarded the Nobel Prize in Literature.",
+      "line": "On this day in 1901, Sully Prudhomme was awarded the Nobel Prize in Literature.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "science",
-      "line": "On this day in 1918, Fritz Haber was awarded the Nobel Prize in Chemistry.",
+      "line": "On this day in 1935, Frédéric Joliot and Irène Joliot-Curie were awarded the Nobel Prize in Chemistry.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "discovery",
-      "line": "On this day in 1918, Fritz Haber was awarded the Nobel Prize in Chemistry.",
+      "line": "On this day in 1935, Frédéric Joliot and Irène Joliot-Curie were awarded the Nobel Prize in Chemistry.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "radiation",
+      "line": "On this day in 1935, Frédéric Joliot and Irène Joliot-Curie were awarded the Nobel Prize in Chemistry.",
       "source": "nobel",
       "weight": 3
     },
     {
       "tag": "physics",
-      "line": "On this day in 1918, Max Planck was awarded the Nobel Prize in Physics.",
+      "line": "On this day in 1935, James Chadwick was awarded the Nobel Prize in Physics.",
       "source": "nobel",
       "weight": 3
     },
     {
-      "tag": "launch",
-      "line": "A rocket launches today: Starship carrying Starlink Group 31-2 (Starship Flight 15).",
-      "source": "launchlibrary",
-      "weight": 3
-    },
-    {
       "tag": "space",
-      "line": "A rocket launches today: Starship carrying Starlink Group 31-2 (Starship Flight 15).",
+      "line": "A rocket launches today: Soyuz 2.1b/Fregat-M carrying MKA Kinosputnik, KOEN and others.",
       "source": "launchlibrary",
       "weight": 3
     }
