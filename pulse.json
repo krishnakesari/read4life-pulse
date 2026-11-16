@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-15",
-  "generated_at": "2026-11-15T16:22:12+00:00",
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T19:37:07+00:00",
   "signals": [
     {
       "tag": "november",
@@ -9,46 +9,40 @@
       "weight": 1
     },
     {
-      "tag": "science",
-      "line": "On this day in 1934, Harold C. Urey was awarded the Nobel Prize in Chemistry.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "discovery",
-      "line": "On this day in 1934, Harold C. Urey was awarded the Nobel Prize in Chemistry.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "books",
-      "line": "On this day in 1945, Gabriela Mistral was awarded the Nobel Prize in Literature.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "poetry",
-      "line": "On this day in 1945, Gabriela Mistral was awarded the Nobel Prize in Literature.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "physics",
-      "line": "On this day in 1945, Wolfgang Pauli was awarded the Nobel Prize in Physics.",
-      "source": "nobel",
+      "tag": "launch",
+      "line": "A rocket launches this week: Long March 2D carrying Unknown Payload.",
+      "source": "launchlibrary",
       "weight": 3
     },
     {
       "tag": "space",
-      "line": "A rocket launches today: Vulcan VC6L carrying Amazon Leo (LV-01).",
+      "line": "A rocket launches this week: Long March 2D carrying Unknown Payload.",
       "source": "launchlibrary",
       "weight": 3
     },
     {
-      "tag": "launch",
-      "line": "A rocket launches today: Vulcan VC6L carrying Amazon Leo (LV-01).",
-      "source": "launchlibrary",
-      "weight": 3
+      "tag": "revolution",
+      "line": "Today is the anniversary of French Revolution (1793).",
+      "source": "wikimedia",
+      "weight": 2
+    },
+    {
+      "tag": "poetry",
+      "line": "Jónas Hallgrímsson was born on this day in 1807.",
+      "source": "wikimedia",
+      "weight": 2
+    },
+    {
+      "tag": "astronomy",
+      "line": "Tonight's sky, from NASA: NASA Science.",
+      "source": "nasa",
+      "weight": 2
+    },
+    {
+      "tag": "telescope",
+      "line": "Tonight's sky, from NASA: NASA Science.",
+      "source": "nasa",
+      "weight": 2
     }
   ]
 }
