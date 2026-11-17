@@ -1,12 +1,24 @@
 {
-  "date": "2026-11-16",
-  "generated_at": "2026-11-16T19:37:07+00:00",
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T18:35:20+00:00",
   "signals": [
     {
       "tag": "november",
       "line": "It's November.",
       "source": "computed",
       "weight": 1
+    },
+    {
+      "tag": "books",
+      "line": "On this day in 1904, Frédéric Mistral and José Echegaray were awarded the Nobel Prize in Literature.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "poetry",
+      "line": "On this day in 1904, Frédéric Mistral and José Echegaray were awarded the Nobel Prize in Literature.",
+      "source": "nobel",
+      "weight": 3
     },
     {
       "tag": "launch",
@@ -21,25 +33,13 @@
       "weight": 3
     },
     {
-      "tag": "revolution",
-      "line": "Today is the anniversary of French Revolution (1793).",
-      "source": "wikimedia",
-      "weight": 2
-    },
-    {
-      "tag": "poetry",
-      "line": "Jónas Hallgrímsson was born on this day in 1807.",
+      "tag": "explorers",
+      "line": "Pierre Gaultier de Varennes, sieur de La Vérendrye was born on this day in 1685.",
       "source": "wikimedia",
       "weight": 2
     },
     {
       "tag": "astronomy",
-      "line": "Tonight's sky, from NASA: NASA Science.",
-      "source": "nasa",
-      "weight": 2
-    },
-    {
-      "tag": "telescope",
       "line": "Tonight's sky, from NASA: NASA Science.",
       "source": "nasa",
       "weight": 2
