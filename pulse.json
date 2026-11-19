@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-18",
-  "generated_at": "2026-11-18T18:05:25+00:00",
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T18:17:42+00:00",
   "signals": [
     {
       "tag": "november",
@@ -9,44 +9,44 @@
       "weight": 1
     },
     {
+      "tag": "books",
+      "line": "On this day in 1903, Bjørnstjerne Bjørnson was awarded the Nobel Prize in Literature.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
+      "tag": "poetry",
+      "line": "On this day in 1903, Bjørnstjerne Bjørnson was awarded the Nobel Prize in Literature.",
+      "source": "nobel",
+      "weight": 3
+    },
+    {
       "tag": "space",
-      "line": "A rocket launches today: Long March 2D carrying Unknown Payload.",
+      "line": "A rocket launches this week: Falcon 9 Block 5 carrying USSF-317.",
       "source": "launchlibrary",
       "weight": 3
     },
     {
       "tag": "launch",
-      "line": "A rocket launches today: Long March 2D carrying Unknown Payload.",
+      "line": "A rocket launches this week: Falcon 9 Block 5 carrying USSF-317.",
       "source": "launchlibrary",
       "weight": 3
     },
     {
-      "tag": "election",
-      "line": "Today is the anniversary of 1872 United States presidential election (1872).",
+      "tag": "moon",
+      "line": "Today is the anniversary of Apollo program (1969).",
       "source": "wikimedia",
       "weight": 2
     },
     {
-      "tag": "democracy",
-      "line": "Today is the anniversary of 1872 United States presidential election (1872).",
+      "tag": "science",
+      "line": "George Emil Palade was born on this day in 1912.",
       "source": "wikimedia",
       "weight": 2
     },
     {
-      "tag": "law",
-      "line": "Today is the anniversary of Constitution of South Africa (1993).",
-      "source": "wikimedia",
-      "weight": 2
-    },
-    {
-      "tag": "explorers",
-      "line": "Adolf Erik Nordenskiöld was born on this day in 1832.",
-      "source": "wikimedia",
-      "weight": 2
-    },
-    {
-      "tag": "poetry",
-      "line": "W. S. Gilbert was born on this day in 1836.",
+      "tag": "discovery",
+      "line": "George Emil Palade was born on this day in 1912.",
       "source": "wikimedia",
       "weight": 2
     }
