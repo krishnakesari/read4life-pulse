@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-19",
-  "generated_at": "2026-11-19T18:17:42+00:00",
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T17:49:05+00:00",
   "signals": [
     {
       "tag": "november",
@@ -9,44 +9,44 @@
       "weight": 1
     },
     {
-      "tag": "books",
-      "line": "On this day in 1903, Bjørnstjerne Bjørnson was awarded the Nobel Prize in Literature.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
-      "tag": "poetry",
-      "line": "On this day in 1903, Bjørnstjerne Bjørnson was awarded the Nobel Prize in Literature.",
-      "source": "nobel",
-      "weight": 3
-    },
-    {
       "tag": "space",
-      "line": "A rocket launches this week: Falcon 9 Block 5 carrying USSF-317.",
+      "line": "A rocket launches today: Long March 8A carrying SatNet LEO Group 30.",
       "source": "launchlibrary",
       "weight": 3
     },
     {
       "tag": "launch",
-      "line": "A rocket launches this week: Falcon 9 Block 5 carrying USSF-317.",
+      "line": "A rocket launches today: Long March 8A carrying SatNet LEO Group 30.",
       "source": "launchlibrary",
       "weight": 3
     },
     {
-      "tag": "moon",
-      "line": "Today is the anniversary of Apollo program (1969).",
-      "source": "wikimedia",
-      "weight": 2
-    },
-    {
-      "tag": "science",
-      "line": "George Emil Palade was born on this day in 1912.",
+      "tag": "explorers",
+      "line": "Today is the anniversary of Garnier Expedition (1873).",
       "source": "wikimedia",
       "weight": 2
     },
     {
       "tag": "discovery",
-      "line": "George Emil Palade was born on this day in 1912.",
+      "line": "Today is the anniversary of Garnier Expedition (1873).",
+      "source": "wikimedia",
+      "weight": 2
+    },
+    {
+      "tag": "revolution",
+      "line": "Today is the anniversary of Mexican Revolution (1910).",
+      "source": "wikimedia",
+      "weight": 2
+    },
+    {
+      "tag": "poetry",
+      "line": "Thomas Chatterton was born on this day in 1752.",
+      "source": "wikimedia",
+      "weight": 2
+    },
+    {
+      "tag": "fire",
+      "line": "Johann Nicolaus von Dreyse was born on this day in 1787.",
       "source": "wikimedia",
       "weight": 2
     }
